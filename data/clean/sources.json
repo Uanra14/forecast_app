@@ -1,0 +1,262 @@
+[
+    {
+        "tech": "Fossil Hard coal",
+        "name": "Eemshaven",
+        "capacity": "1580"
+    },
+    {
+        "tech": "Wind Offshore",
+        "name": "Hollandse Kust Zuid",
+        "capacity": "1420"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "Eemshaven",
+        "capacity": "1410"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "Claus",
+        "capacity": "1304"
+    },
+    {
+        "tech": "Fossil Hard coal",
+        "name": "Maasvlakte",
+        "capacity": "1070"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "Enecogen",
+        "capacity": "928"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "Velsen",
+        "capacity": "869"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "Moerdijk",
+        "capacity": "766"
+    },
+    {
+        "tech": "Wind Offshore",
+        "name": "OWF Hollandse Kust Noord",
+        "capacity": "760"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "Rijnmond 1",
+        "capacity": "750"
+    },
+    {
+        "tech": "Wind Offshore",
+        "name": "Borssele Windfarm III and IV",
+        "capacity": "732"
+    },
+    {
+        "tech": "Fossil Hard coal",
+        "name": "NLROTTETH__1",
+        "capacity": "731"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "Diemen",
+        "capacity": "684"
+    },
+    {
+        "tech": "Biomass",
+        "name": "Amer",
+        "capacity": "631"
+    },
+    {
+        "tech": "Wind Offshore",
+        "name": "Windpark Gemini",
+        "capacity": "600"
+    },
+    {
+        "tech": "Nuclear",
+        "name": "Borssele 30",
+        "capacity": "485"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "FLEVO 5",
+        "capacity": "464"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "TNZ150 ELSTA",
+        "capacity": "455"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "FLEVO 4",
+        "capacity": "443"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "Hemweg",
+        "capacity": "440"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "Sloe Centrale 20",
+        "capacity": "435"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "Sloe Centrale 10",
+        "capacity": "435"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "Maastroom Energie CV",
+        "capacity": "426"
+    },
+    {
+        "tech": "Wind Onshore",
+        "name": "Windpark Fryslan",
+        "capacity": "383"
+    },
+    {
+        "tech": "Wind Offshore",
+        "name": "Borssele 2",
+        "capacity": "376"
+    },
+    {
+        "tech": "Wind Offshore",
+        "name": "Borssele 1",
+        "capacity": "376"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "Eems 7",
+        "capacity": "360"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "Eems 5",
+        "capacity": "360"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "Eems 3",
+        "capacity": "360"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "Eems 6",
+        "capacity": "360"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "Eems 4",
+        "capacity": "360"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "Delesto 2",
+        "capacity": "343"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "Lage Weide 6",
+        "capacity": "248"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "Merwedekanaal 12",
+        "capacity": "225"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "RoCa",
+        "capacity": "220"
+    },
+    {
+        "tech": "Wind Onshore",
+        "name": "WP NOP Agrowind",
+        "capacity": "195"
+    },
+    {
+        "tech": "Wind Onshore",
+        "name": "Windpark Wieringermeer",
+        "capacity": "184"
+    },
+    {
+        "tech": "Wind Offshore",
+        "name": "Westermeerwind",
+        "capacity": "144"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "Eems 20",
+        "capacity": "131"
+    },
+    {
+        "tech": "Wind Offshore",
+        "name": "Windfarm Luchterduinen",
+        "capacity": "129"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "NAM Schoonebeek",
+        "capacity": "128"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "PERGEN 1",
+        "capacity": "125"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "PERGEN 2",
+        "capacity": "125"
+    },
+    {
+        "tech": "Wind Onshore",
+        "name": "Prinses Alexia Windpark",
+        "capacity": "122"
+    },
+    {
+        "tech": "Wind Onshore",
+        "name": "Westereems",
+        "capacity": "120"
+    },
+    {
+        "tech": "Wind Offshore",
+        "name": "Windfarm Princess Amalia",
+        "capacity": "120"
+    },
+    {
+        "tech": "Wind Onshore",
+        "name": "Wieringermeer Extension",
+        "capacity": "118"
+    },
+    {
+        "tech": "Wind Onshore",
+        "name": "WP Maasvlakte 2",
+        "capacity": "117"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "Den Haag",
+        "capacity": "112"
+    },
+    {
+        "tech": "Wind Offshore",
+        "name": "OWEZ",
+        "capacity": "108"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "Bergum 10",
+        "capacity": "72"
+    },
+    {
+        "tech": "Fossil Gas",
+        "name": "Bergum 20",
+        "capacity": "72"
+    }
+]
