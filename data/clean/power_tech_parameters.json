@@ -1,0 +1,58 @@
+{
+    "Fossil Gas": {
+        "fuel_cost": 0.0,
+        "co2_intensity": 0.0,
+        "eff_high": 1.0,
+        "eff_low": 1.0,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0"
+    },
+    "Nuclear": {
+        "fuel_cost": 1.2820127272727273,
+        "co2_intensity": 0.03,
+        "eff_high": 0.42,
+        "eff_low": 0.32,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0"
+    },
+    "Fossil Hard coal": {
+        "fuel_cost": 0.0,
+        "co2_intensity": 0.0,
+        "eff_high": 1.0,
+        "eff_low": 1.0,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0"
+    },
+    "Wind Onshore": {
+        "fuel_cost": 0.0,
+        "co2_intensity": 0.0,
+        "eff_high": 1.0,
+        "eff_low": 1.0,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0"
+    },
+    "Wind Offshore": {
+        "fuel_cost": 0.0,
+        "co2_intensity": 0.0,
+        "eff_high": 1.0,
+        "eff_low": 1.0,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0"
+    },
+    "Solar": {
+        "fuel_cost": 0.0,
+        "co2_intensity": 0.0,
+        "eff_high": 1.0,
+        "eff_low": 1.0,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0"
+    },
+    "Biomass": {
+        "fuel_cost": 0.0,
+        "co2_intensity": 0.0,
+        "eff_high": 1.0,
+        "eff_low": 1.0,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0"
+    }
+}
