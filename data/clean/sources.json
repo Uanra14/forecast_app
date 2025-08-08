@@ -2,261 +2,625 @@
     {
         "tech_name": "Fossil Hard coal",
         "name": "Eemshaven",
-        "capacity": "1580"
+        "capacity": "1580",
+        "fuel_cost": 13.51975248740941,
+        "co2_intensity": 0.3,
+        "eff_high": 0.46,
+        "eff_low": 0.35,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 0
     },
     {
         "tech_name": "Wind Offshore",
         "name": "Hollandse Kust Zuid",
-        "capacity": "1420"
+        "capacity": "1420",
+        "fuel_cost": 0.0,
+        "co2_intensity": 0.0,
+        "eff_high": 1.0,
+        "eff_low": 1.0,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 1
     },
     {
         "tech_name": "Fossil Gas",
         "name": "Eemshaven",
-        "capacity": "1410"
+        "capacity": "1410",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 2
     },
     {
         "tech_name": "Fossil Gas",
         "name": "Claus",
-        "capacity": "1304"
+        "capacity": "1304",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 3
     },
     {
         "tech_name": "Fossil Hard coal",
         "name": "Maasvlakte",
-        "capacity": "1070"
+        "capacity": "1070",
+        "fuel_cost": 13.51975248740941,
+        "co2_intensity": 0.3,
+        "eff_high": 0.46,
+        "eff_low": 0.35,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 4
     },
     {
         "tech_name": "Fossil Gas",
         "name": "Enecogen",
-        "capacity": "928"
+        "capacity": "928",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 5
     },
     {
         "tech_name": "Fossil Gas",
         "name": "Velsen",
-        "capacity": "869"
+        "capacity": "869",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 6
     },
     {
         "tech_name": "Fossil Gas",
         "name": "Moerdijk",
-        "capacity": "766"
+        "capacity": "766",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 7
     },
     {
         "tech_name": "Wind Offshore",
         "name": "OWF Hollandse Kust Noord",
-        "capacity": "760"
+        "capacity": "760",
+        "fuel_cost": 0.0,
+        "co2_intensity": 0.0,
+        "eff_high": 1.0,
+        "eff_low": 1.0,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 8
     },
     {
         "tech_name": "Fossil Gas",
         "name": "Rijnmond 1",
-        "capacity": "750"
+        "capacity": "750",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 9
     },
     {
         "tech_name": "Wind Offshore",
         "name": "Borssele Windfarm III and IV",
-        "capacity": "732"
+        "capacity": "732",
+        "fuel_cost": 0.0,
+        "co2_intensity": 0.0,
+        "eff_high": 1.0,
+        "eff_low": 1.0,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 10
     },
     {
         "tech_name": "Fossil Hard coal",
         "name": "NLROTTETH__1",
-        "capacity": "731"
+        "capacity": "731",
+        "fuel_cost": 13.51975248740941,
+        "co2_intensity": 0.3,
+        "eff_high": 0.46,
+        "eff_low": 0.35,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 11
     },
     {
         "tech_name": "Fossil Gas",
         "name": "Diemen",
-        "capacity": "684"
+        "capacity": "684",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 12
     },
     {
         "tech_name": "Biomass",
         "name": "Amer",
-        "capacity": "631"
+        "capacity": "631",
+        "fuel_cost": 0.0,
+        "co2_intensity": 0.0,
+        "eff_high": 1.0,
+        "eff_low": 1.0,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 13
     },
     {
         "tech_name": "Wind Offshore",
         "name": "Windpark Gemini",
-        "capacity": "600"
+        "capacity": "600",
+        "fuel_cost": 0.0,
+        "co2_intensity": 0.0,
+        "eff_high": 1.0,
+        "eff_low": 1.0,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 14
     },
     {
         "tech_name": "Nuclear",
         "name": "Borssele 30",
-        "capacity": "485"
+        "capacity": "485",
+        "fuel_cost": 1.2820127272727273,
+        "co2_intensity": 0.03,
+        "eff_high": 0.42,
+        "eff_low": 0.32,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 15
     },
     {
         "tech_name": "Fossil Gas",
         "name": "FLEVO 5",
-        "capacity": "464"
+        "capacity": "464",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 16
     },
     {
         "tech_name": "Fossil Gas",
         "name": "TNZ150 ELSTA",
-        "capacity": "455"
+        "capacity": "455",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 17
     },
     {
         "tech_name": "Fossil Gas",
         "name": "FLEVO 4",
-        "capacity": "443"
+        "capacity": "443",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 18
     },
     {
         "tech_name": "Fossil Gas",
         "name": "Hemweg",
-        "capacity": "440"
+        "capacity": "440",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 19
     },
     {
         "tech_name": "Fossil Gas",
         "name": "Sloe Centrale 20",
-        "capacity": "435"
+        "capacity": "435",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 20
     },
     {
         "tech_name": "Fossil Gas",
         "name": "Sloe Centrale 10",
-        "capacity": "435"
+        "capacity": "435",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 21
     },
     {
         "tech_name": "Fossil Gas",
         "name": "Maastroom Energie CV",
-        "capacity": "426"
+        "capacity": "426",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 22
     },
     {
         "tech_name": "Wind Onshore",
         "name": "Windpark Fryslan",
-        "capacity": "383"
+        "capacity": "383",
+        "fuel_cost": 0.0,
+        "co2_intensity": 0.0,
+        "eff_high": 1.0,
+        "eff_low": 1.0,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 23
     },
     {
         "tech_name": "Wind Offshore",
         "name": "Borssele 2",
-        "capacity": "376"
+        "capacity": "376",
+        "fuel_cost": 0.0,
+        "co2_intensity": 0.0,
+        "eff_high": 1.0,
+        "eff_low": 1.0,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 24
     },
     {
         "tech_name": "Wind Offshore",
         "name": "Borssele 1",
-        "capacity": "376"
+        "capacity": "376",
+        "fuel_cost": 0.0,
+        "co2_intensity": 0.0,
+        "eff_high": 1.0,
+        "eff_low": 1.0,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 25
     },
     {
         "tech_name": "Fossil Gas",
         "name": "Eems 7",
-        "capacity": "360"
+        "capacity": "360",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 26
     },
     {
         "tech_name": "Fossil Gas",
         "name": "Eems 5",
-        "capacity": "360"
+        "capacity": "360",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 27
     },
     {
         "tech_name": "Fossil Gas",
         "name": "Eems 3",
-        "capacity": "360"
+        "capacity": "360",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 28
     },
     {
         "tech_name": "Fossil Gas",
         "name": "Eems 6",
-        "capacity": "360"
+        "capacity": "360",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 29
     },
     {
         "tech_name": "Fossil Gas",
         "name": "Eems 4",
-        "capacity": "360"
+        "capacity": "360",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 30
     },
     {
         "tech_name": "Fossil Gas",
         "name": "Delesto 2",
-        "capacity": "343"
+        "capacity": "343",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 31
     },
     {
         "tech_name": "Fossil Gas",
         "name": "Lage Weide 6",
-        "capacity": "248"
+        "capacity": "248",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 32
     },
     {
         "tech_name": "Fossil Gas",
         "name": "Merwedekanaal 12",
-        "capacity": "225"
+        "capacity": "225",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 33
     },
     {
         "tech_name": "Fossil Gas",
         "name": "RoCa",
-        "capacity": "220"
+        "capacity": "220",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 34
     },
     {
         "tech_name": "Wind Onshore",
         "name": "WP NOP Agrowind",
-        "capacity": "195"
+        "capacity": "195",
+        "fuel_cost": 0.0,
+        "co2_intensity": 0.0,
+        "eff_high": 1.0,
+        "eff_low": 1.0,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 35
     },
     {
         "tech_name": "Wind Onshore",
         "name": "Windpark Wieringermeer",
-        "capacity": "184"
+        "capacity": "184",
+        "fuel_cost": 0.0,
+        "co2_intensity": 0.0,
+        "eff_high": 1.0,
+        "eff_low": 1.0,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 36
     },
     {
         "tech_name": "Wind Offshore",
         "name": "Westermeerwind",
-        "capacity": "144"
+        "capacity": "144",
+        "fuel_cost": 0.0,
+        "co2_intensity": 0.0,
+        "eff_high": 1.0,
+        "eff_low": 1.0,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 37
     },
     {
         "tech_name": "Fossil Gas",
         "name": "Eems 20",
-        "capacity": "131"
+        "capacity": "131",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 38
     },
     {
         "tech_name": "Wind Offshore",
         "name": "Windfarm Luchterduinen",
-        "capacity": "129"
+        "capacity": "129",
+        "fuel_cost": 0.0,
+        "co2_intensity": 0.0,
+        "eff_high": 1.0,
+        "eff_low": 1.0,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 39
     },
     {
         "tech_name": "Fossil Gas",
         "name": "NAM Schoonebeek",
-        "capacity": "128"
+        "capacity": "128",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 40
     },
     {
         "tech_name": "Fossil Gas",
         "name": "PERGEN 1",
-        "capacity": "125"
+        "capacity": "125",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 41
     },
     {
         "tech_name": "Fossil Gas",
         "name": "PERGEN 2",
-        "capacity": "125"
+        "capacity": "125",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 42
     },
     {
         "tech_name": "Wind Onshore",
         "name": "Prinses Alexia Windpark",
-        "capacity": "122"
+        "capacity": "122",
+        "fuel_cost": 0.0,
+        "co2_intensity": 0.0,
+        "eff_high": 1.0,
+        "eff_low": 1.0,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 43
     },
     {
         "tech_name": "Wind Onshore",
         "name": "Westereems",
-        "capacity": "120"
+        "capacity": "120",
+        "fuel_cost": 0.0,
+        "co2_intensity": 0.0,
+        "eff_high": 1.0,
+        "eff_low": 1.0,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 44
     },
     {
         "tech_name": "Wind Offshore",
         "name": "Windfarm Princess Amalia",
-        "capacity": "120"
+        "capacity": "120",
+        "fuel_cost": 0.0,
+        "co2_intensity": 0.0,
+        "eff_high": 1.0,
+        "eff_low": 1.0,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 45
     },
     {
         "tech_name": "Wind Onshore",
         "name": "Wieringermeer Extension",
-        "capacity": "118"
+        "capacity": "118",
+        "fuel_cost": 0.0,
+        "co2_intensity": 0.0,
+        "eff_high": 1.0,
+        "eff_low": 1.0,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 46
     },
     {
         "tech_name": "Wind Onshore",
         "name": "WP Maasvlakte 2",
-        "capacity": "117"
+        "capacity": "117",
+        "fuel_cost": 0.0,
+        "co2_intensity": 0.0,
+        "eff_high": 1.0,
+        "eff_low": 1.0,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 47
     },
     {
         "tech_name": "Fossil Gas",
         "name": "Den Haag",
-        "capacity": "112"
+        "capacity": "112",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 48
     },
     {
         "tech_name": "Wind Offshore",
         "name": "OWEZ",
-        "capacity": "108"
+        "capacity": "108",
+        "fuel_cost": 0.0,
+        "co2_intensity": 0.0,
+        "eff_high": 1.0,
+        "eff_low": 1.0,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 49
     },
     {
         "tech_name": "Fossil Gas",
         "name": "Bergum 10",
-        "capacity": "72"
+        "capacity": "72",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 50
     },
     {
         "tech_name": "Fossil Gas",
         "name": "Bergum 20",
-        "capacity": "72"
+        "capacity": "72",
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
+        "other_costs": 0.0,
+        "carbon_cost": "73.0",
+        "idx": 51
     }
 ]

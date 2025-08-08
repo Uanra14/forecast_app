@@ -16,7 +16,7 @@ class ISP:
         self.power_blocks = []
         self.prev_isp = prev_isp
 
-        self.sources = [PowerPlant(i, self, **source) for i, source in enumerate(sources)]
+        self.sources = [PowerPlant(self, **source) for source in sources]
 
         for source in self.sources:
             for i in range(source.capacity):
@@ -26,6 +26,7 @@ class ISP:
         self.power_stack = PowerStack(self.power_blocks, self.demand)
         
         self.price = self.power_stack.price
+        self.price_setter = self.power_stack.get_last_block().get_source()
 
     def to_string(self):
         return f"demand = {self.demand}, time = {self.time}, price = {self.price}, sources = {len(self.sources)}, power_stack = {self.power_stack.to_string()} \n" \
@@ -36,6 +37,7 @@ class ISP:
             'demand': self.demand,
             'time': self.time,
             'price': self.price,
+            'price_setter': self.price_setter.idx,
             'power_stack': self.power_stack.to_dict()
         }
 

@@ -57,7 +57,7 @@ class PowerPlant():
     """
     Represents an available power plant in the Netherlands at a specific ISP.
     """
-    def __init__(self, idx, isp, name, tech_name, capacity):
+    def __init__(self, isp, name, tech_name, capacity, idx):
         self.idx = idx
         self.name = name
         self.capacity = int(capacity)
