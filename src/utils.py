@@ -12,3 +12,7 @@ class ProgressBar:
 
     def close(self):
         self.progress_bar.close()
+
+class Analyser:
+    def __init__(self, data):
+        self.data = data

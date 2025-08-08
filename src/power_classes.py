@@ -25,6 +25,31 @@ class PowerStack:
     def to_string(self):
         return f"PowerStack with {len(self.power_stack)} blocks, price={self.price}"
     
+    def to_dict(self):
+        unique_sources = {}
+        source_counts = {}
+
+        for ordered_block in self.power_stack:
+            source = ordered_block.get_source()
+            
+            # Count occurrences of each source
+            if source.idx not in source_counts.keys():
+                source_counts[source.idx] = 0
+            source_counts[source.idx] += 1
+            
+            # Store unique source data
+            if source.idx not in unique_sources:
+                unique_sources[source.idx] = {
+                    'count': source_counts[source.idx],
+                }
+            else:
+                # Update the count for existing source
+                unique_sources[source.idx]['count'] = source_counts[source.idx]
+
+        return {
+            'sources': unique_sources
+        }
+    
     def get_last_block(self):
         return self.power_stack[-1] if self.power_stack else None
     
@@ -48,6 +73,20 @@ class PowerPlant():
         self.carbon_cost = float(tech_params[tech_name]['carbon_cost'])
 
         self.marginal_cost_curve = self.create_marginal_cost_curve()
+
+    def to_dict(self):
+        return {
+            'idx': self.idx,
+            'name': self.name,
+            'tech_name': self.tech_name,
+            'capacity': self.capacity,
+            'fuel_cost': self.fuel_cost,
+            'co2_intensity': self.co2_intensity,
+            'eff_high': self.eff_high,
+            'eff_low': self.eff_low,
+            'other_costs': self.other_costs,
+            'carbon_cost': self.carbon_cost
+        }
         
     def create_marginal_cost_curve(self):
         curve = []
@@ -84,6 +123,13 @@ class PowerBlock:
     
     def to_string(self):
         return f"This power block is from {self.source.name} with cost {self.cost}"
+    
+    def to_dict(self):
+        return {
+            'idx': self.idx,
+            'cost': self.cost,
+            'source': self.source.to_dict()
+        }
     
     def get_source(self):
         return self.source

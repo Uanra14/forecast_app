@@ -1,4 +1,5 @@
 import csv
+import json
 from market import MarketSimulator
 
 def main():
@@ -9,12 +10,8 @@ def main():
     simulator = MarketSimulator(demand_data)
     simulator.generate_price_forecast()
 
-    for isp in simulator.isps:
-        print(isp.to_string())
-
-    # Plot the marginal cost curves for the power plant activated in the last ISP
-    last_isp = simulator.isps[-1]
-    last_isp.power_stack.get_last_block().source.plot_marginal_cost_curve()
+    with open('../outputs/price_forecast.json', 'w') as f:
+        json.dump(simulator.to_dict(), f, indent=4)
 
 if __name__ == "__main__":
     main()

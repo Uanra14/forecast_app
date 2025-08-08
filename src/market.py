@@ -30,6 +30,14 @@ class ISP:
     def to_string(self):
         return f"demand = {self.demand}, time = {self.time}, price = {self.price}, sources = {len(self.sources)}, power_stack = {self.power_stack.to_string()} \n" \
                f"The last block in the stack: {self.power_stack.get_last_block().to_string()}"
+    
+    def to_dict(self):
+        return {
+            'demand': self.demand,
+            'time': self.time,
+            'price': self.price,
+            'power_stack': self.power_stack.to_dict()
+        }
 
 class MarketSimulator:
     def __init__(self, demand):
@@ -49,9 +57,7 @@ class MarketSimulator:
             progress_bar.update()
         progress_bar.close()
 
-        for isp in self.isps:
-            self.forecasts.append({
-                'demand': isp.demand,
-                'time': isp.time,
-                'price': isp.price,
-            })
+    def to_dict(self):
+        return {
+            'isps': [isp.to_dict() for isp in self.isps],
+        }
