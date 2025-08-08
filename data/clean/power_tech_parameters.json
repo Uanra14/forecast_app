@@ -1,9 +1,9 @@
 {
     "Fossil Gas": {
-        "fuel_cost": 0.0,
-        "co2_intensity": 0.0,
-        "eff_high": 1.0,
-        "eff_low": 1.0,
+        "fuel_cost": 48.889,
+        "co2_intensity": 0.2,
+        "eff_high": 0.4,
+        "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0"
     },
@@ -16,10 +16,10 @@
         "carbon_cost": "73.0"
     },
     "Fossil Hard coal": {
-        "fuel_cost": 0.0,
-        "co2_intensity": 0.0,
-        "eff_high": 1.0,
-        "eff_low": 1.0,
+        "fuel_cost": 13.51975248740941,
+        "co2_intensity": 0.3,
+        "eff_high": 0.46,
+        "eff_low": 0.35,
         "other_costs": 0.0,
         "carbon_cost": "73.0"
     },

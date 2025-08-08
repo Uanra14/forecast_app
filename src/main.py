@@ -9,8 +9,12 @@ def main():
     simulator = MarketSimulator(demand_data)
     simulator.generate_price_forecast()
 
-    for forecast in simulator.forecasts[:20]:
-        print(f"ISP Demand: {forecast['demand']}, Time: {forecast['time']}, Price: {forecast['price']}")
+    for isp in simulator.isps:
+        print(isp.to_string())
+
+    # Plot the marginal cost curves for the power plant activated in the last ISP
+    last_isp = simulator.isps[-1]
+    last_isp.power_stack.get_last_block().source.plot_marginal_cost_curve()
 
 if __name__ == "__main__":
     main()

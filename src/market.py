@@ -1,15 +1,13 @@
 """
 This module simulates the market and generates prices.
 """
-from power_classes import PowerBlock, PowerStack, PowerPlant, PowerTech
+from power_classes import PowerBlock, PowerStack, PowerPlant
 from utils import ProgressBar
 import json
 
 # Load sources from a JSON file
 with open('../data/clean/sources.json', 'r') as f:
     sources = json.load(f)
-
-
 
 class ISP:
     def __init__(self, demand, time, prev_isp=None):
@@ -30,7 +28,8 @@ class ISP:
         self.price = self.power_stack.price
 
     def to_string(self):
-        return f"ISP(demand={self.demand}, time={self.time}, price={self.price}, sources={len(self.sources)}, fuel_prices={self.fuel_prices})"
+        return f"demand = {self.demand}, time = {self.time}, price = {self.price}, sources = {len(self.sources)}, power_stack = {self.power_stack.to_string()} \n" \
+               f"The last block in the stack: {self.power_stack.get_last_block().to_string()}"
 
 class MarketSimulator:
     def __init__(self, demand):
