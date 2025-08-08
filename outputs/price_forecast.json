@@ -4,6 +4,7 @@
             "demand": 10838,
             "time": "2025-07-21 00:15:00",
             "price": 161.02054045422284,
+            "price_setter": 2,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -169,6 +170,7 @@
             "demand": 10897,
             "time": "2025-07-21 00:30:00",
             "price": 161.4051338028169,
+            "price_setter": 51,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -334,6 +336,7 @@
             "demand": 10917,
             "time": "2025-07-21 00:45:00",
             "price": 161.575116359447,
+            "price_setter": 21,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -499,6 +502,7 @@
             "demand": 10841,
             "time": "2025-07-21 01:00:00",
             "price": 161.02653629032258,
+            "price_setter": 42,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -664,6 +668,7 @@
             "demand": 10727,
             "time": "2025-07-21 01:15:00",
             "price": 160.24102961275625,
+            "price_setter": 19,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -829,6 +834,7 @@
             "demand": 10604,
             "time": "2025-07-21 01:30:00",
             "price": 159.35823765020027,
+            "price_setter": 9,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -994,6 +1000,7 @@
             "demand": 10489,
             "time": "2025-07-21 01:45:00",
             "price": 101.12266257768647,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -1069,6 +1076,7 @@
             "demand": 10423,
             "time": "2025-07-21 02:00:00",
             "price": 100.64755506809016,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -1144,6 +1152,7 @@
             "demand": 10347,
             "time": "2025-07-21 02:15:00",
             "price": 100.10532786303739,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -1219,6 +1228,7 @@
             "demand": 10316,
             "time": "2025-07-21 02:30:00",
             "price": 99.88125263325739,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -1294,6 +1304,7 @@
             "demand": 10301,
             "time": "2025-07-21 02:45:00",
             "price": 99.77382333027,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -1369,6 +1380,7 @@
             "demand": 10252,
             "time": "2025-07-21 03:00:00",
             "price": 99.42147117235773,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -1444,6 +1456,7 @@
             "demand": 10151,
             "time": "2025-07-21 03:15:00",
             "price": 98.70114688361492,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -1519,6 +1532,7 @@
             "demand": 10066,
             "time": "2025-07-21 03:30:00",
             "price": 98.0881049357487,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -1594,6 +1608,7 @@
             "demand": 9982,
             "time": "2025-07-21 03:45:00",
             "price": 97.48669013988716,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -1669,6 +1684,7 @@
             "demand": 9913,
             "time": "2025-07-21 04:00:00",
             "price": 96.98918525502401,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -1744,6 +1760,7 @@
             "demand": 9918,
             "time": "2025-07-21 04:15:00",
             "price": 97.03060757567948,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -1819,6 +1836,7 @@
             "demand": 10005,
             "time": "2025-07-21 04:30:00",
             "price": 97.65219432055876,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -1894,6 +1912,7 @@
             "demand": 9973,
             "time": "2025-07-21 04:45:00",
             "price": 97.42014114762159,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -1969,6 +1988,7 @@
             "demand": 9936,
             "time": "2025-07-21 05:00:00",
             "price": 97.1549375214077,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -2044,6 +2064,7 @@
             "demand": 9951,
             "time": "2025-07-21 05:15:00",
             "price": 97.26049830612932,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -2119,6 +2140,7 @@
             "demand": 9963,
             "time": "2025-07-21 05:30:00",
             "price": 97.35245459830925,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -2194,6 +2216,7 @@
             "demand": 9968,
             "time": "2025-07-21 05:45:00",
             "price": 97.38699069434486,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -2269,6 +2292,7 @@
             "demand": 9974,
             "time": "2025-07-21 06:00:00",
             "price": 97.42908484179253,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -2344,6 +2368,7 @@
             "demand": 9990,
             "time": "2025-07-21 06:15:00",
             "price": 97.55169323136576,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -2419,6 +2444,7 @@
             "demand": 10030,
             "time": "2025-07-21 06:30:00",
             "price": 97.82756210790556,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -2494,6 +2520,7 @@
             "demand": 10027,
             "time": "2025-07-21 06:45:00",
             "price": 97.81223605920891,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -2569,6 +2596,7 @@
             "demand": 10023,
             "time": "2025-07-21 07:00:00",
             "price": 97.7815839618156,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -2644,6 +2672,7 @@
             "demand": 9891,
             "time": "2025-07-21 07:15:00",
             "price": 96.83136894262296,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -2719,6 +2748,7 @@
             "demand": 9765,
             "time": "2025-07-21 07:30:00",
             "price": 95.92837075016838,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -2794,6 +2824,7 @@
             "demand": 9634,
             "time": "2025-07-21 07:45:00",
             "price": 94.99652980488054,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -2869,6 +2900,7 @@
             "demand": 9431,
             "time": "2025-07-21 08:00:00",
             "price": 93.54153811424324,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -2944,6 +2976,7 @@
             "demand": 9129,
             "time": "2025-07-21 08:15:00",
             "price": 91.37529560661365,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3019,6 +3052,7 @@
             "demand": 8635,
             "time": "2025-07-21 08:30:00",
             "price": 87.83966015064428,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3094,6 +3128,7 @@
             "demand": 8138,
             "time": "2025-07-21 08:45:00",
             "price": 84.27933506006221,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3169,6 +3204,7 @@
             "demand": 7637,
             "time": "2025-07-21 09:00:00",
             "price": 80.68942678920615,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3244,6 +3280,7 @@
             "demand": 6966,
             "time": "2025-07-21 09:15:00",
             "price": 10.028067062672177,
+            "price_setter": 15,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3310,6 +3347,7 @@
             "demand": 6020,
             "time": "2025-07-21 09:30:00",
             "price": 0.0,
+            "price_setter": 43,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3358,6 +3396,7 @@
             "demand": 5393,
             "time": "2025-07-21 09:45:00",
             "price": 0.0,
+            "price_setter": 35,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3394,6 +3433,7 @@
             "demand": 4857,
             "time": "2025-07-21 10:00:00",
             "price": 0.0,
+            "price_setter": 24,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3424,6 +3464,7 @@
             "demand": 4569,
             "time": "2025-07-21 10:15:00",
             "price": 0.0,
+            "price_setter": 24,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3454,6 +3495,7 @@
             "demand": 4414,
             "time": "2025-07-21 10:30:00",
             "price": 0.0,
+            "price_setter": 23,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3481,6 +3523,7 @@
             "demand": 4074,
             "time": "2025-07-21 10:45:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3505,6 +3548,7 @@
             "demand": 3866,
             "time": "2025-07-21 11:00:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3529,6 +3573,7 @@
             "demand": 4013,
             "time": "2025-07-21 11:15:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3553,6 +3598,7 @@
             "demand": 4350,
             "time": "2025-07-21 11:30:00",
             "price": 0.0,
+            "price_setter": 23,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3580,6 +3626,7 @@
             "demand": 4310,
             "time": "2025-07-21 11:45:00",
             "price": 0.0,
+            "price_setter": 23,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3607,6 +3654,7 @@
             "demand": 4262,
             "time": "2025-07-21 12:00:00",
             "price": 0.0,
+            "price_setter": 23,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3634,6 +3682,7 @@
             "demand": 4326,
             "time": "2025-07-21 12:15:00",
             "price": 0.0,
+            "price_setter": 23,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3661,6 +3710,7 @@
             "demand": 4340,
             "time": "2025-07-21 12:30:00",
             "price": 0.0,
+            "price_setter": 23,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3688,6 +3738,7 @@
             "demand": 4269,
             "time": "2025-07-21 12:45:00",
             "price": 0.0,
+            "price_setter": 23,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3715,6 +3766,7 @@
             "demand": 4271,
             "time": "2025-07-21 13:00:00",
             "price": 0.0,
+            "price_setter": 23,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3742,6 +3794,7 @@
             "demand": 4327,
             "time": "2025-07-21 13:15:00",
             "price": 0.0,
+            "price_setter": 23,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3769,6 +3822,7 @@
             "demand": 4593,
             "time": "2025-07-21 13:30:00",
             "price": 0.0,
+            "price_setter": 24,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3799,6 +3853,7 @@
             "demand": 4631,
             "time": "2025-07-21 13:45:00",
             "price": 0.0,
+            "price_setter": 24,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3829,6 +3884,7 @@
             "demand": 4658,
             "time": "2025-07-21 14:00:00",
             "price": 0.0,
+            "price_setter": 24,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3859,6 +3915,7 @@
             "demand": 4736,
             "time": "2025-07-21 14:15:00",
             "price": 0.0,
+            "price_setter": 24,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3889,6 +3946,7 @@
             "demand": 4889,
             "time": "2025-07-21 14:30:00",
             "price": 0.0,
+            "price_setter": 24,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3919,6 +3977,7 @@
             "demand": 5116,
             "time": "2025-07-21 14:45:00",
             "price": 0.0,
+            "price_setter": 25,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3952,6 +4011,7 @@
             "demand": 5378,
             "time": "2025-07-21 15:00:00",
             "price": 0.0,
+            "price_setter": 35,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -3988,6 +4048,7 @@
             "demand": 5389,
             "time": "2025-07-21 15:15:00",
             "price": 0.0,
+            "price_setter": 35,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -4024,6 +4085,7 @@
             "demand": 5226,
             "time": "2025-07-21 15:30:00",
             "price": 0.0,
+            "price_setter": 25,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -4057,6 +4119,7 @@
             "demand": 5333,
             "time": "2025-07-21 15:45:00",
             "price": 0.0,
+            "price_setter": 35,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -4093,6 +4156,7 @@
             "demand": 5929,
             "time": "2025-07-21 16:00:00",
             "price": 0.0,
+            "price_setter": 39,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -4138,6 +4202,7 @@
             "demand": 6641,
             "time": "2025-07-21 16:15:00",
             "price": 8.29338439534811,
+            "price_setter": 15,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -4204,6 +4269,7 @@
             "demand": 7076,
             "time": "2025-07-21 16:30:00",
             "price": 10.615190426997245,
+            "price_setter": 15,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -4270,6 +4336,7 @@
             "demand": 7422,
             "time": "2025-07-21 16:45:00",
             "price": 79.15005494574753,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -4345,6 +4412,7 @@
             "demand": 7894,
             "time": "2025-07-21 17:00:00",
             "price": 82.53216550864349,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -4420,6 +4488,7 @@
             "demand": 8218,
             "time": "2025-07-21 17:15:00",
             "price": 84.8547858950354,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -4495,6 +4564,7 @@
             "demand": 8509,
             "time": "2025-07-21 17:30:00",
             "price": 86.93746544795003,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -4570,6 +4640,7 @@
             "demand": 8690,
             "time": "2025-07-21 17:45:00",
             "price": 88.2334556237993,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -4645,6 +4716,7 @@
             "demand": 8793,
             "time": "2025-07-21 18:00:00",
             "price": 88.96910596123875,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -4720,6 +4792,7 @@
             "demand": 9027,
             "time": "2025-07-21 18:15:00",
             "price": 90.65006812923262,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -4795,6 +4868,7 @@
             "demand": 9270,
             "time": "2025-07-21 18:30:00",
             "price": 92.3868148205929,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -4870,6 +4944,7 @@
             "demand": 9436,
             "time": "2025-07-21 18:45:00",
             "price": 93.57468856751997,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -4945,6 +5020,7 @@
             "demand": 9578,
             "time": "2025-07-21 19:00:00",
             "price": 94.59376583291127,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -5020,6 +5096,7 @@
             "demand": 9664,
             "time": "2025-07-21 19:15:00",
             "price": 95.2068077807775,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -5095,6 +5172,7 @@
             "demand": 9790,
             "time": "2025-07-21 19:30:00",
             "price": 96.11104465388016,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -5170,6 +5248,7 @@
             "demand": 10031,
             "time": "2025-07-21 19:45:00",
             "price": 97.84288815660221,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -5245,6 +5324,7 @@
             "demand": 10266,
             "time": "2025-07-21 20:00:00",
             "price": 99.52409405034712,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -5320,6 +5400,7 @@
             "demand": 10439,
             "time": "2025-07-21 20:15:00",
             "price": 100.76833692857215,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -5395,6 +5476,7 @@
             "demand": 10657,
             "time": "2025-07-21 20:30:00",
             "price": 159.7396802403204,
+            "price_setter": 9,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -5560,6 +5642,7 @@
             "demand": 10876,
             "time": "2025-07-21 20:45:00",
             "price": 161.29089815471966,
+            "price_setter": 2,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -5725,6 +5808,7 @@
             "demand": 10998,
             "time": "2025-07-21 21:00:00",
             "price": 162.1698665158371,
+            "price_setter": 18,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -5890,6 +5974,7 @@
             "demand": 11071,
             "time": "2025-07-21 21:15:00",
             "price": 162.67227649769586,
+            "price_setter": 6,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -6055,6 +6140,7 @@
             "demand": 11141,
             "time": "2025-07-21 21:30:00",
             "price": 163.18086032233307,
+            "price_setter": 3,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -6220,6 +6306,7 @@
             "demand": 11128,
             "time": "2025-07-21 21:45:00",
             "price": 163.06115603644648,
+            "price_setter": 19,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -6385,6 +6472,7 @@
             "demand": 11181,
             "time": "2025-07-21 22:00:00",
             "price": 163.4537597586941,
+            "price_setter": 2,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -6550,6 +6638,7 @@
             "demand": 11307,
             "time": "2025-07-21 22:15:00",
             "price": 164.3244705882353,
+            "price_setter": 18,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -6715,6 +6804,7 @@
             "demand": 11430,
             "time": "2025-07-21 22:30:00",
             "price": 165.2273207981581,
+            "price_setter": 3,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -6880,6 +6970,7 @@
             "demand": 11394,
             "time": "2025-07-21 22:45:00",
             "price": 164.97085180995475,
+            "price_setter": 18,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -7045,6 +7136,7 @@
             "demand": 11348,
             "time": "2025-07-21 23:00:00",
             "price": 164.64716474654378,
+            "price_setter": 6,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -7210,6 +7302,7 @@
             "demand": 11406,
             "time": "2025-07-21 23:15:00",
             "price": 165.08114504988487,
+            "price_setter": 3,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -7375,6 +7468,7 @@
             "demand": 11398,
             "time": "2025-07-21 23:30:00",
             "price": 164.99703513909225,
+            "price_setter": 12,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -7540,6 +7634,7 @@
             "demand": 11367,
             "time": "2025-07-21 23:45:00",
             "price": 164.79661845102504,
+            "price_setter": 19,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -7705,6 +7800,7 @@
             "demand": 11284,
             "time": "2025-07-22 00:00:00",
             "price": 164.17640088105728,
+            "price_setter": 17,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -7870,6 +7966,7 @@
             "demand": 11144,
             "time": "2025-07-22 00:15:00",
             "price": 163.20407647058823,
+            "price_setter": 7,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -8035,6 +8132,7 @@
             "demand": 11085,
             "time": "2025-07-22 00:30:00",
             "price": 162.74645070422534,
+            "price_setter": 51,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -8200,6 +8298,7 @@
             "demand": 11051,
             "time": "2025-07-22 00:45:00",
             "price": 162.53184,
+            "price_setter": 22,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -8365,6 +8464,7 @@
             "demand": 11010,
             "time": "2025-07-22 01:00:00",
             "price": 162.21919438444925,
+            "price_setter": 16,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -8530,6 +8630,7 @@
             "demand": 10933,
             "time": "2025-07-22 01:15:00",
             "price": 161.6848323732719,
+            "price_setter": 6,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -8695,6 +8796,7 @@
             "demand": 10751,
             "time": "2025-07-22 01:30:00",
             "price": 160.37541789052068,
+            "price_setter": 9,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -8860,6 +8962,7 @@
             "demand": 10623,
             "time": "2025-07-22 01:45:00",
             "price": 159.49051209677418,
+            "price_setter": 42,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -9025,6 +9128,7 @@
             "demand": 10534,
             "time": "2025-07-22 02:00:00",
             "price": 158.82523300970874,
+            "price_setter": 5,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -9190,6 +9294,7 @@
             "demand": 10524,
             "time": "2025-07-22 02:15:00",
             "price": 158.7225,
+            "price_setter": 34,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -9334,6 +9439,7 @@
             "demand": 10503,
             "time": "2025-07-22 02:30:00",
             "price": 158.7225,
+            "price_setter": 3,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -9415,6 +9521,7 @@
             "demand": 10481,
             "time": "2025-07-22 02:45:00",
             "price": 101.06346589380576,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -9490,6 +9597,7 @@
             "demand": 10412,
             "time": "2025-07-22 03:00:00",
             "price": 100.56943420891173,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -9565,6 +9673,7 @@
             "demand": 10321,
             "time": "2025-07-22 03:15:00",
             "price": 99.91190473065069,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -9640,6 +9749,7 @@
             "demand": 10304,
             "time": "2025-07-22 03:30:00",
             "price": 99.7957479050751,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -9715,6 +9825,7 @@
             "demand": 10251,
             "time": "2025-07-22 03:45:00",
             "price": 99.41090494421046,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -9790,6 +9901,7 @@
             "demand": 10188,
             "time": "2025-07-22 04:00:00",
             "price": 98.96168971145806,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -9865,6 +9977,7 @@
             "demand": 10176,
             "time": "2025-07-22 04:15:00",
             "price": 98.87876109179808,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -9940,6 +10053,7 @@
             "demand": 10192,
             "time": "2025-07-22 04:30:00",
             "price": 98.99234180885138,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -10015,6 +10129,7 @@
             "demand": 10189,
             "time": "2025-07-22 04:45:00",
             "price": 98.97701576015471,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -10090,6 +10205,7 @@
             "demand": 10171,
             "time": "2025-07-22 05:00:00",
             "price": 98.84495941352714,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -10165,6 +10281,7 @@
             "demand": 10180,
             "time": "2025-07-22 05:15:00",
             "price": 98.91191154507482,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -10240,6 +10357,7 @@
             "demand": 10245,
             "time": "2025-07-22 05:30:00",
             "price": 99.37549302626776,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -10315,6 +10433,7 @@
             "demand": 10227,
             "time": "2025-07-22 05:45:00",
             "price": 99.2434160778422,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -10390,6 +10509,7 @@
             "demand": 10203,
             "time": "2025-07-22 06:00:00",
             "price": 99.07133762580045,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -10465,6 +10585,7 @@
             "demand": 10166,
             "time": "2025-07-22 06:15:00",
             "price": 98.8084292244915,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -10540,6 +10661,7 @@
             "demand": 10172,
             "time": "2025-07-22 06:30:00",
             "price": 98.84561063852134,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -10615,6 +10737,7 @@
             "demand": 10177,
             "time": "2025-07-22 06:45:00",
             "price": 98.88505946797478,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -10690,6 +10813,7 @@
             "demand": 10221,
             "time": "2025-07-22 07:00:00",
             "price": 99.20690649060455,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -10765,6 +10889,7 @@
             "demand": 10192,
             "time": "2025-07-22 07:15:00",
             "price": 98.99234180885138,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -10840,6 +10965,7 @@
             "demand": 10229,
             "time": "2025-07-22 07:30:00",
             "price": 99.25288463669452,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -10915,6 +11041,7 @@
             "demand": 10266,
             "time": "2025-07-22 07:45:00",
             "price": 99.52409405034712,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -10990,6 +11117,7 @@
             "demand": 10277,
             "time": "2025-07-22 08:00:00",
             "price": 99.60538375671759,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -11065,6 +11193,7 @@
             "demand": 10246,
             "time": "2025-07-22 08:15:00",
             "price": 99.37601789094916,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -11140,6 +11269,7 @@
             "demand": 10123,
             "time": "2025-07-22 08:30:00",
             "price": 98.5019082505584,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -11215,6 +11345,7 @@
             "demand": 9955,
             "time": "2025-07-22 08:45:00",
             "price": 97.29115040352262,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -11290,6 +11421,7 @@
             "demand": 9707,
             "time": "2025-07-22 09:00:00",
             "price": 95.51719969310919,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -11365,6 +11497,7 @@
             "demand": 9471,
             "time": "2025-07-22 09:15:00",
             "price": 93.8274633980785,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -11440,6 +11573,7 @@
             "demand": 9073,
             "time": "2025-07-22 09:30:00",
             "price": 90.97681834050061,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -11515,6 +11649,7 @@
             "demand": 8748,
             "time": "2025-07-22 09:45:00",
             "price": 88.64725893860899,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -11590,6 +11725,7 @@
             "demand": 8592,
             "time": "2025-07-22 10:00:00",
             "price": 87.52845738375315,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -11665,6 +11801,7 @@
             "demand": 8315,
             "time": "2025-07-22 10:15:00",
             "price": 85.5513971018846,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -11740,6 +11877,7 @@
             "demand": 7867,
             "time": "2025-07-22 10:30:00",
             "price": 82.33668490670574,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -11815,6 +11953,7 @@
             "demand": 7405,
             "time": "2025-07-22 10:45:00",
             "price": 79.02250035710941,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -11890,6 +12029,7 @@
             "demand": 6889,
             "time": "2025-07-22 11:00:00",
             "price": 9.617080707644629,
+            "price_setter": 15,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -11956,6 +12096,7 @@
             "demand": 6359,
             "time": "2025-07-22 11:15:00",
             "price": 0.0,
+            "price_setter": 46,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12013,6 +12154,7 @@
             "demand": 5863,
             "time": "2025-07-22 11:30:00",
             "price": 0.0,
+            "price_setter": 39,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12058,6 +12200,7 @@
             "demand": 5540,
             "time": "2025-07-22 11:45:00",
             "price": 0.0,
+            "price_setter": 36,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12097,6 +12240,7 @@
             "demand": 5268,
             "time": "2025-07-22 12:00:00",
             "price": 0.0,
+            "price_setter": 25,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12130,6 +12274,7 @@
             "demand": 5017,
             "time": "2025-07-22 12:15:00",
             "price": 0.0,
+            "price_setter": 25,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12163,6 +12308,7 @@
             "demand": 4708,
             "time": "2025-07-22 12:30:00",
             "price": 0.0,
+            "price_setter": 24,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12193,6 +12339,7 @@
             "demand": 4502,
             "time": "2025-07-22 12:45:00",
             "price": 0.0,
+            "price_setter": 23,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12220,6 +12367,7 @@
             "demand": 4527,
             "time": "2025-07-22 13:00:00",
             "price": 0.0,
+            "price_setter": 24,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12250,6 +12398,7 @@
             "demand": 4712,
             "time": "2025-07-22 13:15:00",
             "price": 0.0,
+            "price_setter": 24,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12280,6 +12429,7 @@
             "demand": 4792,
             "time": "2025-07-22 13:30:00",
             "price": 0.0,
+            "price_setter": 24,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12310,6 +12460,7 @@
             "demand": 4778,
             "time": "2025-07-22 13:45:00",
             "price": 0.0,
+            "price_setter": 24,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12340,6 +12491,7 @@
             "demand": 4912,
             "time": "2025-07-22 14:00:00",
             "price": 0.0,
+            "price_setter": 25,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12373,6 +12525,7 @@
             "demand": 4978,
             "time": "2025-07-22 14:15:00",
             "price": 0.0,
+            "price_setter": 25,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12406,6 +12559,7 @@
             "demand": 4912,
             "time": "2025-07-22 14:30:00",
             "price": 0.0,
+            "price_setter": 25,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12439,6 +12593,7 @@
             "demand": 4907,
             "time": "2025-07-22 14:45:00",
             "price": 0.0,
+            "price_setter": 25,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12472,6 +12627,7 @@
             "demand": 4966,
             "time": "2025-07-22 15:00:00",
             "price": 0.0,
+            "price_setter": 25,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12505,6 +12661,7 @@
             "demand": 5049,
             "time": "2025-07-22 15:15:00",
             "price": 0.0,
+            "price_setter": 25,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12538,6 +12695,7 @@
             "demand": 5046,
             "time": "2025-07-22 15:30:00",
             "price": 0.0,
+            "price_setter": 25,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12571,6 +12729,7 @@
             "demand": 5214,
             "time": "2025-07-22 15:45:00",
             "price": 0.0,
+            "price_setter": 25,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12604,6 +12763,7 @@
             "demand": 5287,
             "time": "2025-07-22 16:00:00",
             "price": 0.0,
+            "price_setter": 35,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12640,6 +12800,7 @@
             "demand": 5214,
             "time": "2025-07-22 16:15:00",
             "price": 0.0,
+            "price_setter": 25,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12673,6 +12834,7 @@
             "demand": 5340,
             "time": "2025-07-22 16:30:00",
             "price": 0.0,
+            "price_setter": 35,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12709,6 +12871,7 @@
             "demand": 5380,
             "time": "2025-07-22 16:45:00",
             "price": 0.0,
+            "price_setter": 35,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12745,6 +12908,7 @@
             "demand": 5475,
             "time": "2025-07-22 17:00:00",
             "price": 0.0,
+            "price_setter": 36,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12784,6 +12948,7 @@
             "demand": 5810,
             "time": "2025-07-22 17:15:00",
             "price": 0.0,
+            "price_setter": 39,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12829,6 +12994,7 @@
             "demand": 5895,
             "time": "2025-07-22 17:30:00",
             "price": 0.0,
+            "price_setter": 39,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12874,6 +13040,7 @@
             "demand": 6117,
             "time": "2025-07-22 17:45:00",
             "price": 0.0,
+            "price_setter": 44,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12925,6 +13092,7 @@
             "demand": 6424,
             "time": "2025-07-22 18:00:00",
             "price": 0.0,
+            "price_setter": 47,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -12985,6 +13153,7 @@
             "demand": 6745,
             "time": "2025-07-22 18:15:00",
             "price": 8.84848284889181,
+            "price_setter": 15,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -13051,6 +13220,7 @@
             "demand": 7079,
             "time": "2025-07-22 18:30:00",
             "price": 10.631202882387928,
+            "price_setter": 15,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -13117,6 +13287,7 @@
             "demand": 7500,
             "time": "2025-07-22 18:45:00",
             "price": 79.7121725484589,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -13192,6 +13363,7 @@
             "demand": 7795,
             "time": "2025-07-22 19:00:00",
             "price": 81.8213178505728,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -13267,6 +13439,7 @@
             "demand": 8040,
             "time": "2025-07-22 19:15:00",
             "price": 83.57433682001606,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -13342,6 +13515,7 @@
             "demand": 8378,
             "time": "2025-07-22 19:30:00",
             "price": 85.9958525140876,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -13417,6 +13591,7 @@
             "demand": 8726,
             "time": "2025-07-22 19:45:00",
             "price": 88.49399845164244,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -13492,6 +13667,7 @@
             "demand": 9063,
             "time": "2025-07-22 20:00:00",
             "price": 90.90018809701733,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -13567,6 +13743,7 @@
             "demand": 9462,
             "time": "2025-07-22 20:15:00",
             "price": 93.76615920329189,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -13642,6 +13819,7 @@
             "demand": 9881,
             "time": "2025-07-22 20:30:00",
             "price": 96.76227986061251,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -13717,6 +13895,7 @@
             "demand": 10204,
             "time": "2025-07-22 20:45:00",
             "price": 99.0776638114585,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -13792,6 +13971,7 @@
             "demand": 10508,
             "time": "2025-07-22 21:00:00",
             "price": 158.7225,
+            "price_setter": 12,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -13888,6 +14068,7 @@
             "demand": 10772,
             "time": "2025-07-22 21:15:00",
             "price": 160.54741447835343,
+            "price_setter": 2,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -14053,6 +14234,7 @@
             "demand": 10897,
             "time": "2025-07-22 21:30:00",
             "price": 161.4051338028169,
+            "price_setter": 51,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -14218,6 +14400,7 @@
             "demand": 10977,
             "time": "2025-07-22 21:45:00",
             "price": 162.01145433614735,
+            "price_setter": 3,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -14383,6 +14566,7 @@
             "demand": 11023,
             "time": "2025-07-22 22:00:00",
             "price": 162.34248684210527,
+            "price_setter": 31,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -14548,6 +14732,7 @@
             "demand": 11083,
             "time": "2025-07-22 22:15:00",
             "price": 162.74233307751342,
+            "price_setter": 3,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -14713,6 +14898,7 @@
             "demand": 11088,
             "time": "2025-07-22 22:30:00",
             "price": 162.77786550745208,
+            "price_setter": 2,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -14878,6 +15064,7 @@
             "demand": 11031,
             "time": "2025-07-22 22:45:00",
             "price": 162.4103576309795,
+            "price_setter": 19,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -15043,6 +15230,7 @@
             "demand": 10924,
             "time": "2025-07-22 23:00:00",
             "price": 161.64051810584957,
+            "price_setter": 27,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -15208,6 +15396,7 @@
             "demand": 10856,
             "time": "2025-07-22 23:15:00",
             "price": 161.13439984650805,
+            "price_setter": 3,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -15373,6 +15562,7 @@
             "demand": 10700,
             "time": "2025-07-22 23:30:00",
             "price": 160.0390921658986,
+            "price_setter": 21,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -15538,6 +15728,7 @@
             "demand": 10558,
             "time": "2025-07-22 23:45:00",
             "price": 158.98777437325904,
+            "price_setter": 30,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -15703,6 +15894,7 @@
             "demand": 10487,
             "time": "2025-07-23 00:00:00",
             "price": 101.10733652898982,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -15778,6 +15970,7 @@
             "demand": 10552,
             "time": "2025-07-23 00:15:00",
             "price": 158.97147647058824,
+            "price_setter": 7,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -15943,6 +16136,7 @@
             "demand": 10752,
             "time": "2025-07-23 00:30:00",
             "price": 160.39326315789472,
+            "price_setter": 31,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -16108,6 +16302,7 @@
             "demand": 10783,
             "time": "2025-07-23 00:45:00",
             "price": 160.61038876651983,
+            "price_setter": 17,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -16273,6 +16468,7 @@
             "demand": 10702,
             "time": "2025-07-23 01:00:00",
             "price": 160.04887186629526,
+            "price_setter": 27,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -16438,6 +16634,7 @@
             "demand": 10600,
             "time": "2025-07-23 01:15:00",
             "price": 159.33889805825243,
+            "price_setter": 5,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -16603,6 +16800,7 @@
             "demand": 10524,
             "time": "2025-07-23 01:30:00",
             "price": 158.7225,
+            "price_setter": 34,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -16747,6 +16945,7 @@
             "demand": 10468,
             "time": "2025-07-23 01:45:00",
             "price": 100.96940209071992,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -16822,6 +17021,7 @@
             "demand": 10443,
             "time": "2025-07-23 02:00:00",
             "price": 100.79181203907775,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -16897,6 +17097,7 @@
             "demand": 10422,
             "time": "2025-07-23 02:15:00",
             "price": 100.6357351154652,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -16972,6 +17173,7 @@
             "demand": 10391,
             "time": "2025-07-23 02:30:00",
             "price": 100.41766433764032,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -17047,6 +17249,7 @@
             "demand": 10409,
             "time": "2025-07-23 02:45:00",
             "price": 100.54279600557709,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -17122,6 +17325,7 @@
             "demand": 10393,
             "time": "2025-07-23 03:00:00",
             "price": 100.43299038633698,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -17197,6 +17401,7 @@
             "demand": 10372,
             "time": "2025-07-23 03:15:00",
             "price": 100.27972989937042,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -17272,6 +17477,7 @@
             "demand": 10377,
             "time": "2025-07-23 03:30:00",
             "price": 100.31641779330377,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -17347,6 +17553,7 @@
             "demand": 10384,
             "time": "2025-07-23 03:45:00",
             "price": 100.37053148925129,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -17422,6 +17629,7 @@
             "demand": 10391,
             "time": "2025-07-23 04:00:00",
             "price": 100.41766433764032,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -17497,6 +17705,7 @@
             "demand": 10402,
             "time": "2025-07-23 04:15:00",
             "price": 100.49752036312243,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -17572,6 +17781,7 @@
             "demand": 10398,
             "time": "2025-07-23 04:30:00",
             "price": 100.4699828490815,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -17647,6 +17857,7 @@
             "demand": 10387,
             "time": "2025-07-23 04:45:00",
             "price": 100.38701224024702,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -17722,6 +17933,7 @@
             "demand": 10375,
             "time": "2025-07-23 05:00:00",
             "price": 100.30423058269781,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -17797,6 +18009,7 @@
             "demand": 10403,
             "time": "2025-07-23 05:15:00",
             "price": 100.50313330235825,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -17872,6 +18085,7 @@
             "demand": 10469,
             "time": "2025-07-23 05:30:00",
             "price": 100.97291460889642,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -17947,6 +18161,7 @@
             "demand": 10512,
             "time": "2025-07-23 05:45:00",
             "price": 158.7225,
+            "price_setter": 19,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -18055,6 +18270,7 @@
             "demand": 10525,
             "time": "2025-07-23 06:00:00",
             "price": 158.7225,
+            "price_setter": 38,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -18202,6 +18418,7 @@
             "demand": 10556,
             "time": "2025-07-23 06:15:00",
             "price": 158.98777437325904,
+            "price_setter": 28,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -18367,6 +18584,7 @@
             "demand": 10590,
             "time": "2025-07-23 06:30:00",
             "price": 159.2530487465181,
+            "price_setter": 27,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -18532,6 +18750,7 @@
             "demand": 10533,
             "time": "2025-07-23 06:45:00",
             "price": 158.7955878741366,
+            "price_setter": 3,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -18697,6 +18916,7 @@
             "demand": 10534,
             "time": "2025-07-23 07:00:00",
             "price": 158.82523300970874,
+            "price_setter": 5,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -18862,6 +19082,7 @@
             "demand": 10581,
             "time": "2025-07-23 07:15:00",
             "price": 159.16136405529954,
+            "price_setter": 20,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -19027,6 +19248,7 @@
             "demand": 10645,
             "time": "2025-07-23 07:30:00",
             "price": 159.60022811059906,
+            "price_setter": 20,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -19192,6 +19414,7 @@
             "demand": 10665,
             "time": "2025-07-23 07:45:00",
             "price": 159.7835974930362,
+            "price_setter": 29,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -19357,6 +19580,7 @@
             "demand": 10569,
             "time": "2025-07-23 08:00:00",
             "price": 159.10806072874493,
+            "price_setter": 32,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -19522,6 +19746,7 @@
             "demand": 10399,
             "time": "2025-07-23 08:15:00",
             "price": 100.4748825418951,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -19597,6 +19822,7 @@
             "demand": 10223,
             "time": "2025-07-23 08:30:00",
             "price": 99.21026562456547,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -19672,6 +19898,7 @@
             "demand": 10119,
             "time": "2025-07-23 08:45:00",
             "price": 98.47125615316509,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -19747,6 +19974,7 @@
             "demand": 9997,
             "time": "2025-07-23 09:00:00",
             "price": 97.59767137745573,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -19822,6 +20050,7 @@
             "demand": 9839,
             "time": "2025-07-23 09:15:00",
             "price": 96.46354377390324,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -19897,6 +20126,7 @@
             "demand": 9594,
             "time": "2025-07-23 09:30:00",
             "price": 94.70223812892522,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -19972,6 +20202,7 @@
             "demand": 9337,
             "time": "2025-07-23 09:45:00",
             "price": 92.86857460951124,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -20047,6 +20278,7 @@
             "demand": 9063,
             "time": "2025-07-23 10:00:00",
             "price": 90.90018809701733,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -20122,6 +20354,7 @@
             "demand": 8974,
             "time": "2025-07-23 10:15:00",
             "price": 90.26522516836796,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -20197,6 +20430,7 @@
             "demand": 8806,
             "time": "2025-07-23 10:30:00",
             "price": 89.06542064331933,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -20272,6 +20506,7 @@
             "demand": 8603,
             "time": "2025-07-23 10:45:00",
             "price": 87.6076069777071,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -20347,6 +20582,7 @@
             "demand": 8445,
             "time": "2025-07-23 11:00:00",
             "price": 86.48049156629801,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -20422,6 +20658,7 @@
             "demand": 8195,
             "time": "2025-07-23 11:15:00",
             "price": 84.69036708935415,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -20497,6 +20734,7 @@
             "demand": 7836,
             "time": "2025-07-23 11:30:00",
             "price": 82.11560952652813,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -20572,6 +20810,7 @@
             "demand": 7571,
             "time": "2025-07-23 11:45:00",
             "price": 80.2150558969945,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -20647,6 +20886,7 @@
             "demand": 7266,
             "time": "2025-07-23 12:00:00",
             "price": 78.02712598072978,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -20722,6 +20962,7 @@
             "demand": 6922,
             "time": "2025-07-23 12:15:00",
             "price": 9.793217716942149,
+            "price_setter": 15,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -20788,6 +21029,7 @@
             "demand": 6530,
             "time": "2025-07-23 12:30:00",
             "price": 0.0,
+            "price_setter": 49,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -20851,6 +21093,7 @@
             "demand": 6254,
             "time": "2025-07-23 12:45:00",
             "price": 0.0,
+            "price_setter": 45,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -20905,6 +21148,7 @@
             "demand": 6081,
             "time": "2025-07-23 13:00:00",
             "price": 0.0,
+            "price_setter": 44,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -20956,6 +21200,7 @@
             "demand": 5833,
             "time": "2025-07-23 13:15:00",
             "price": 0.0,
+            "price_setter": 39,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -21001,6 +21246,7 @@
             "demand": 5637,
             "time": "2025-07-23 13:30:00",
             "price": 0.0,
+            "price_setter": 36,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -21040,6 +21286,7 @@
             "demand": 5544,
             "time": "2025-07-23 13:45:00",
             "price": 0.0,
+            "price_setter": 36,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -21079,6 +21326,7 @@
             "demand": 5382,
             "time": "2025-07-23 14:00:00",
             "price": 0.0,
+            "price_setter": 35,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -21115,6 +21363,7 @@
             "demand": 5260,
             "time": "2025-07-23 14:15:00",
             "price": 0.0,
+            "price_setter": 25,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -21148,6 +21397,7 @@
             "demand": 5229,
             "time": "2025-07-23 14:30:00",
             "price": 0.0,
+            "price_setter": 25,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -21181,6 +21431,7 @@
             "demand": 5158,
             "time": "2025-07-23 14:45:00",
             "price": 0.0,
+            "price_setter": 25,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -21214,6 +21465,7 @@
             "demand": 5191,
             "time": "2025-07-23 15:00:00",
             "price": 0.0,
+            "price_setter": 25,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -21247,6 +21499,7 @@
             "demand": 5319,
             "time": "2025-07-23 15:15:00",
             "price": 0.0,
+            "price_setter": 35,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -21283,6 +21536,7 @@
             "demand": 5480,
             "time": "2025-07-23 15:30:00",
             "price": 0.0,
+            "price_setter": 36,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -21322,6 +21576,7 @@
             "demand": 5723,
             "time": "2025-07-23 15:45:00",
             "price": 0.0,
+            "price_setter": 37,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -21364,6 +21619,7 @@
             "demand": 5997,
             "time": "2025-07-23 16:00:00",
             "price": 0.0,
+            "price_setter": 43,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -21412,6 +21668,7 @@
             "demand": 6101,
             "time": "2025-07-23 16:15:00",
             "price": 0.0,
+            "price_setter": 44,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -21463,6 +21720,7 @@
             "demand": 6211,
             "time": "2025-07-23 16:30:00",
             "price": 0.0,
+            "price_setter": 45,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -21517,6 +21775,7 @@
             "demand": 6340,
             "time": "2025-07-23 16:45:00",
             "price": 0.0,
+            "price_setter": 46,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -21574,6 +21833,7 @@
             "demand": 6629,
             "time": "2025-07-23 17:00:00",
             "price": 0.0,
+            "price_setter": 49,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -21637,6 +21897,7 @@
             "demand": 6989,
             "time": "2025-07-23 17:15:00",
             "price": 10.150829220667418,
+            "price_setter": 15,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -21703,6 +21964,7 @@
             "demand": 7397,
             "time": "2025-07-23 17:30:00",
             "price": 78.96895237592886,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -21778,6 +22040,7 @@
             "demand": 7822,
             "time": "2025-07-23 17:45:00",
             "price": 82.01107985295721,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -21853,6 +22116,7 @@
             "demand": 8138,
             "time": "2025-07-23 18:00:00",
             "price": 84.27933506006221,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -21928,6 +22192,7 @@
             "demand": 8501,
             "time": "2025-07-23 18:15:00",
             "price": 86.87829700561886,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -22003,6 +22268,7 @@
             "demand": 8742,
             "time": "2025-07-23 18:30:00",
             "price": 88.60212057600926,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -22078,6 +22344,7 @@
             "demand": 9114,
             "time": "2025-07-23 18:45:00",
             "price": 91.26801326573707,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -22153,6 +22420,7 @@
             "demand": 9366,
             "time": "2025-07-23 19:00:00",
             "price": 93.07648701194239,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -22228,6 +22496,7 @@
             "demand": 9513,
             "time": "2025-07-23 19:15:00",
             "price": 94.13398437201161,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -22303,6 +22572,7 @@
             "demand": 9814,
             "time": "2025-07-23 19:30:00",
             "price": 96.28688561483851,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -22378,6 +22648,7 @@
             "demand": 10137,
             "time": "2025-07-23 19:45:00",
             "price": 98.59594338002647,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -22453,6 +22724,7 @@
             "demand": 10396,
             "time": "2025-07-23 20:00:00",
             "price": 100.45224472066776,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -22528,6 +22800,7 @@
             "demand": 10595,
             "time": "2025-07-23 20:15:00",
             "price": 159.27108006912442,
+            "price_setter": 6,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -22693,6 +22966,7 @@
             "demand": 10965,
             "time": "2025-07-23 20:30:00",
             "price": 161.90579247910864,
+            "price_setter": 27,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -22858,6 +23132,7 @@
             "demand": 11151,
             "time": "2025-07-23 20:45:00",
             "price": 163.2321643454039,
+            "price_setter": 29,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -23023,6 +23298,7 @@
             "demand": 11029,
             "time": "2025-07-23 21:00:00",
             "price": 162.38532692307692,
+            "price_setter": 38,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -23188,6 +23464,7 @@
             "demand": 10859,
             "time": "2025-07-23 21:15:00",
             "price": 161.13625230414746,
+            "price_setter": 21,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -23353,6 +23630,7 @@
             "demand": 10968,
             "time": "2025-07-23 21:30:00",
             "price": 161.90579247910864,
+            "price_setter": 30,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -23518,6 +23796,7 @@
             "demand": 11144,
             "time": "2025-07-23 21:45:00",
             "price": 163.20407647058823,
+            "price_setter": 7,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -23683,6 +23962,7 @@
             "demand": 11239,
             "time": "2025-07-23 22:00:00",
             "price": 163.87025675675676,
+            "price_setter": 48,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -23848,6 +24128,7 @@
             "demand": 11472,
             "time": "2025-07-23 22:15:00",
             "price": 165.52489285714285,
+            "price_setter": 20,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -24013,6 +24294,7 @@
             "demand": 11727,
             "time": "2025-07-23 22:30:00",
             "price": 167.34091628959277,
+            "price_setter": 18,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -24178,6 +24460,7 @@
             "demand": 11716,
             "time": "2025-07-23 22:45:00",
             "price": 167.2387675656494,
+            "price_setter": 2,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -24343,6 +24626,7 @@
             "demand": 11669,
             "time": "2025-07-23 23:00:00",
             "price": 166.94600557103064,
+            "price_setter": 26,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -24508,6 +24792,7 @@
             "demand": 11733,
             "time": "2025-07-23 23:15:00",
             "price": 167.36853204272364,
+            "price_setter": 9,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -24673,6 +24958,7 @@
             "demand": 11757,
             "time": "2025-07-23 23:30:00",
             "price": 167.5563766968326,
+            "price_setter": 18,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -24838,6 +25124,7 @@
             "demand": 11733,
             "time": "2025-07-23 23:45:00",
             "price": 167.36853204272364,
+            "price_setter": 9,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -25003,6 +25290,7 @@
             "demand": 11711,
             "time": "2025-07-24 00:00:00",
             "price": 167.21127994428969,
+            "price_setter": 29,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -25168,6 +25456,7 @@
             "demand": 11758,
             "time": "2025-07-24 00:15:00",
             "price": 167.55753883495146,
+            "price_setter": 5,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -25333,6 +25622,7 @@
             "demand": 11798,
             "time": "2025-07-24 00:30:00",
             "price": 167.8544794520548,
+            "price_setter": 34,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -25498,6 +25788,7 @@
             "demand": 11741,
             "time": "2025-07-24 00:45:00",
             "price": 167.45480582524272,
+            "price_setter": 5,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -25663,6 +25954,7 @@
             "demand": 11641,
             "time": "2025-07-24 01:00:00",
             "price": 166.73279439252337,
+            "price_setter": 9,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -25828,6 +26120,7 @@
             "demand": 11530,
             "time": "2025-07-24 01:15:00",
             "price": 165.94281764705883,
+            "price_setter": 7,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -25993,6 +26286,7 @@
             "demand": 11410,
             "time": "2025-07-24 01:30:00",
             "price": 165.08908495821726,
+            "price_setter": 26,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -26158,6 +26452,7 @@
             "demand": 11341,
             "time": "2025-07-24 01:45:00",
             "price": 164.57828155339806,
+            "price_setter": 5,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -26323,6 +26618,7 @@
             "demand": 11293,
             "time": "2025-07-24 02:00:00",
             "price": 164.26483286018453,
+            "price_setter": 2,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -26488,6 +26784,7 @@
             "demand": 11199,
             "time": "2025-07-24 02:15:00",
             "price": 163.55095145631068,
+            "price_setter": 5,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -26653,6 +26950,7 @@
             "demand": 11087,
             "time": "2025-07-24 02:30:00",
             "price": 162.76608931185945,
+            "price_setter": 12,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -26818,6 +27116,7 @@
             "demand": 11040,
             "time": "2025-07-24 02:45:00",
             "price": 162.449981580967,
+            "price_setter": 3,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -26983,6 +27282,7 @@
             "demand": 10970,
             "time": "2025-07-24 03:00:00",
             "price": 161.92948462664714,
+            "price_setter": 12,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -27148,6 +27448,7 @@
             "demand": 10933,
             "time": "2025-07-24 03:15:00",
             "price": 161.6848323732719,
+            "price_setter": 6,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -27313,6 +27614,7 @@
             "demand": 10936,
             "time": "2025-07-24 03:30:00",
             "price": 161.7017572815534,
+            "price_setter": 5,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -27478,6 +27780,7 @@
             "demand": 10933,
             "time": "2025-07-24 03:45:00",
             "price": 161.6848323732719,
+            "price_setter": 6,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -27643,6 +27946,7 @@
             "demand": 10981,
             "time": "2025-07-24 04:00:00",
             "price": 162.01398041474653,
+            "price_setter": 21,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -27808,6 +28112,7 @@
             "demand": 11070,
             "time": "2025-07-24 04:15:00",
             "price": 162.66924520337682,
+            "price_setter": 3,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -27973,6 +28278,7 @@
             "demand": 11111,
             "time": "2025-07-24 04:30:00",
             "price": 162.96688997214486,
+            "price_setter": 26,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -28138,6 +28444,7 @@
             "demand": 11035,
             "time": "2025-07-24 04:45:00",
             "price": 162.43634122562673,
+            "price_setter": 27,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -28303,6 +28610,7 @@
             "demand": 10945,
             "time": "2025-07-24 05:00:00",
             "price": 161.78556578947368,
+            "price_setter": 31,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -28468,6 +28776,7 @@
             "demand": 10907,
             "time": "2025-07-24 05:15:00",
             "price": 161.4998392171911,
+            "price_setter": 3,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -28633,6 +28942,7 @@
             "demand": 10930,
             "time": "2025-07-24 05:30:00",
             "price": 161.65061639824305,
+            "price_setter": 12,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -28798,6 +29108,7 @@
             "demand": 10918,
             "time": "2025-07-24 05:45:00",
             "price": 161.5857294117647,
+            "price_setter": 7,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -28963,6 +29274,7 @@
             "demand": 10844,
             "time": "2025-07-24 06:00:00",
             "price": 161.06131197237144,
+            "price_setter": 3,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -29128,6 +29440,7 @@
             "demand": 10798,
             "time": "2025-07-24 06:15:00",
             "price": 160.71431176470588,
+            "price_setter": 7,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -29293,6 +29606,7 @@
             "demand": 10725,
             "time": "2025-07-24 06:30:00",
             "price": 160.22224015748031,
+            "price_setter": 40,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -29458,6 +29772,7 @@
             "demand": 10615,
             "time": "2025-07-24 06:45:00",
             "price": 159.45337874136607,
+            "price_setter": 3,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -29623,6 +29938,7 @@
             "demand": 10618,
             "time": "2025-07-24 07:00:00",
             "price": 159.4694294117647,
+            "price_setter": 7,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -29788,6 +30104,7 @@
             "demand": 10597,
             "time": "2025-07-24 07:15:00",
             "price": 159.28023645680818,
+            "price_setter": 12,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -29953,6 +30270,7 @@
             "demand": 10524,
             "time": "2025-07-24 07:30:00",
             "price": 158.7225,
+            "price_setter": 34,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -30097,6 +30415,7 @@
             "demand": 10411,
             "time": "2025-07-24 07:45:00",
             "price": 100.56543382680442,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -30172,6 +30491,7 @@
             "demand": 10225,
             "time": "2025-07-24 08:00:00",
             "price": 99.2298023743918,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -30247,6 +30567,7 @@
             "demand": 9960,
             "time": "2025-07-24 08:15:00",
             "price": 97.32822539129583,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -30322,6 +30643,7 @@
             "demand": 9643,
             "time": "2025-07-24 08:30:00",
             "price": 95.06444326856254,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -30397,6 +30719,7 @@
             "demand": 9438,
             "time": "2025-07-24 08:45:00",
             "price": 93.5929848887859,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -30472,6 +30795,7 @@
             "demand": 9250,
             "time": "2025-07-24 09:00:00",
             "price": 92.24867043645045,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -30547,6 +30871,7 @@
             "demand": 9001,
             "time": "2025-07-24 09:15:00",
             "price": 90.45854595950658,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -30622,6 +30947,7 @@
             "demand": 8739,
             "time": "2025-07-24 09:30:00",
             "price": 88.58595474382237,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -30697,6 +31023,7 @@
             "demand": 8494,
             "time": "2025-07-24 09:45:00",
             "price": 86.82427634181337,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -30772,6 +31099,7 @@
             "demand": 8122,
             "time": "2025-07-24 10:00:00",
             "price": 84.15995983692633,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -30847,6 +31175,7 @@
             "demand": 7821,
             "time": "2025-07-24 10:15:00",
             "price": 82.00518037393836,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -30922,6 +31251,7 @@
             "demand": 7588,
             "time": "2025-07-24 10:30:00",
             "price": 80.34054054502177,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -30997,6 +31327,7 @@
             "demand": 7414,
             "time": "2025-07-24 10:45:00",
             "price": 79.0879404855854,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -31072,6 +31403,7 @@
             "demand": 7236,
             "time": "2025-07-24 11:00:00",
             "price": 77.81442349333489,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -31147,6 +31479,7 @@
             "demand": 6992,
             "time": "2025-07-24 11:15:00",
             "price": 10.166841676058102,
+            "price_setter": 15,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -31213,6 +31546,7 @@
             "demand": 6722,
             "time": "2025-07-24 11:30:00",
             "price": 8.72572069089657,
+            "price_setter": 15,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -31279,6 +31613,7 @@
             "demand": 6417,
             "time": "2025-07-24 11:45:00",
             "price": 0.0,
+            "price_setter": 47,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -31339,6 +31674,7 @@
             "demand": 6063,
             "time": "2025-07-24 12:00:00",
             "price": 0.0,
+            "price_setter": 44,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -31390,6 +31726,7 @@
             "demand": 5774,
             "time": "2025-07-24 12:15:00",
             "price": 0.0,
+            "price_setter": 37,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -31432,6 +31769,7 @@
             "demand": 5391,
             "time": "2025-07-24 12:30:00",
             "price": 0.0,
+            "price_setter": 35,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -31468,6 +31806,7 @@
             "demand": 5088,
             "time": "2025-07-24 12:45:00",
             "price": 0.0,
+            "price_setter": 25,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -31501,6 +31840,7 @@
             "demand": 4734,
             "time": "2025-07-24 13:00:00",
             "price": 0.0,
+            "price_setter": 24,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -31531,6 +31871,7 @@
             "demand": 4555,
             "time": "2025-07-24 13:15:00",
             "price": 0.0,
+            "price_setter": 24,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -31561,6 +31902,7 @@
             "demand": 4458,
             "time": "2025-07-24 13:30:00",
             "price": 0.0,
+            "price_setter": 23,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -31588,6 +31930,7 @@
             "demand": 4424,
             "time": "2025-07-24 13:45:00",
             "price": 0.0,
+            "price_setter": 23,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -31615,6 +31958,7 @@
             "demand": 4375,
             "time": "2025-07-24 14:00:00",
             "price": 0.0,
+            "price_setter": 23,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -31642,6 +31986,7 @@
             "demand": 4347,
             "time": "2025-07-24 14:15:00",
             "price": 0.0,
+            "price_setter": 23,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -31669,6 +32014,7 @@
             "demand": 4113,
             "time": "2025-07-24 14:30:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -31693,6 +32039,7 @@
             "demand": 4015,
             "time": "2025-07-24 14:45:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -31717,6 +32064,7 @@
             "demand": 4072,
             "time": "2025-07-24 15:00:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -31741,6 +32089,7 @@
             "demand": 4198,
             "time": "2025-07-24 15:15:00",
             "price": 0.0,
+            "price_setter": 23,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -31768,6 +32117,7 @@
             "demand": 4373,
             "time": "2025-07-24 15:30:00",
             "price": 0.0,
+            "price_setter": 23,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -31795,6 +32145,7 @@
             "demand": 4540,
             "time": "2025-07-24 15:45:00",
             "price": 0.0,
+            "price_setter": 24,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -31825,6 +32176,7 @@
             "demand": 4782,
             "time": "2025-07-24 16:00:00",
             "price": 0.0,
+            "price_setter": 24,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -31855,6 +32207,7 @@
             "demand": 5143,
             "time": "2025-07-24 16:15:00",
             "price": 0.0,
+            "price_setter": 25,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -31888,6 +32241,7 @@
             "demand": 5215,
             "time": "2025-07-24 16:30:00",
             "price": 0.0,
+            "price_setter": 25,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -31921,6 +32275,7 @@
             "demand": 5497,
             "time": "2025-07-24 16:45:00",
             "price": 0.0,
+            "price_setter": 36,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -31960,6 +32315,7 @@
             "demand": 5634,
             "time": "2025-07-24 17:00:00",
             "price": 0.0,
+            "price_setter": 36,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -31999,6 +32355,7 @@
             "demand": 5930,
             "time": "2025-07-24 17:15:00",
             "price": 0.0,
+            "price_setter": 39,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -32044,6 +32401,7 @@
             "demand": 6176,
             "time": "2025-07-24 17:30:00",
             "price": 0.0,
+            "price_setter": 45,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -32098,6 +32456,7 @@
             "demand": 6597,
             "time": "2025-07-24 17:45:00",
             "price": 0.0,
+            "price_setter": 49,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -32161,6 +32520,7 @@
             "demand": 7054,
             "time": "2025-07-24 18:00:00",
             "price": 10.497765754132232,
+            "price_setter": 15,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -32227,6 +32587,7 @@
             "demand": 7463,
             "time": "2025-07-24 18:15:00",
             "price": 79.44434662170285,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -32302,6 +32663,7 @@
             "demand": 7936,
             "time": "2025-07-24 18:30:00",
             "price": 82.83394170585682,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -32377,6 +32739,7 @@
             "demand": 8370,
             "time": "2025-07-24 18:45:00",
             "price": 85.94140131394738,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -32452,6 +32815,7 @@
             "demand": 8747,
             "time": "2025-07-24 19:00:00",
             "price": 88.63530204,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -32527,6 +32891,7 @@
             "demand": 9056,
             "time": "2025-07-24 19:15:00",
             "price": 90.85420995092737,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -32602,6 +32967,7 @@
             "demand": 9418,
             "time": "2025-07-24 19:30:00",
             "price": 93.44431218066212,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -32677,6 +33043,7 @@
             "demand": 9928,
             "time": "2025-07-24 19:45:00",
             "price": 97.1018471790225,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -32752,6 +33119,7 @@
             "demand": 10450,
             "time": "2025-07-24 20:00:00",
             "price": 100.83708768153242,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -32827,6 +33195,7 @@
             "demand": 10813,
             "time": "2025-07-24 20:15:00",
             "price": 160.84469498607243,
+            "price_setter": 28,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -32992,6 +33361,7 @@
             "demand": 10997,
             "time": "2025-07-24 20:30:00",
             "price": 162.16956068133427,
+            "price_setter": 2,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -33157,6 +33527,7 @@
             "demand": 11122,
             "time": "2025-07-24 20:45:00",
             "price": 163.03468457405987,
+            "price_setter": 3,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -33322,6 +33693,7 @@
             "demand": 11160,
             "time": "2025-07-24 21:00:00",
             "price": 163.3185809084457,
+            "price_setter": 2,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -33487,6 +33859,7 @@
             "demand": 11321,
             "time": "2025-07-24 21:15:00",
             "price": 164.4441388518024,
+            "price_setter": 9,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -33652,6 +34025,7 @@
             "demand": 11503,
             "time": "2025-07-24 21:30:00",
             "price": 165.71561415220293,
+            "price_setter": 9,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -33817,6 +34191,7 @@
             "demand": 11535,
             "time": "2025-07-24 21:45:00",
             "price": 165.9637569124424,
+            "price_setter": 6,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -33982,6 +34357,7 @@
             "demand": 11561,
             "time": "2025-07-24 22:00:00",
             "price": 166.15018245125347,
+            "price_setter": 29,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -34147,6 +34523,7 @@
             "demand": 11672,
             "time": "2025-07-24 22:15:00",
             "price": 166.94600557103064,
+            "price_setter": 29,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -34312,6 +34689,7 @@
             "demand": 11794,
             "time": "2025-07-24 22:30:00",
             "price": 167.81014117647058,
+            "price_setter": 7,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -34477,6 +34855,7 @@
             "demand": 11839,
             "time": "2025-07-24 22:45:00",
             "price": 168.1508357636224,
+            "price_setter": 3,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -34642,6 +35021,7 @@
             "demand": 11816,
             "time": "2025-07-24 23:00:00",
             "price": 167.9784557235421,
+            "price_setter": 16,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -34807,6 +35187,7 @@
             "demand": 11676,
             "time": "2025-07-24 23:15:00",
             "price": 166.95120103686637,
+            "price_setter": 6,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -34972,6 +35353,7 @@
             "demand": 11458,
             "time": "2025-07-24 23:30:00",
             "price": 165.42908450704226,
+            "price_setter": 50,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -35137,6 +35519,7 @@
             "demand": 11405,
             "time": "2025-07-24 23:45:00",
             "price": 165.07987650200266,
+            "price_setter": 9,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -35302,6 +35685,7 @@
             "demand": 11365,
             "time": "2025-07-25 00:00:00",
             "price": 164.78374757281554,
+            "price_setter": 5,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -35467,6 +35851,7 @@
             "demand": 11316,
             "time": "2025-07-25 00:15:00",
             "price": 164.4233541826554,
+            "price_setter": 3,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -35632,6 +36017,7 @@
             "demand": 11252,
             "time": "2025-07-25 00:30:00",
             "price": 163.9715905511811,
+            "price_setter": 40,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -35797,6 +36183,7 @@
             "demand": 11128,
             "time": "2025-07-25 00:45:00",
             "price": 163.06115603644648,
+            "price_setter": 19,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -35962,6 +36349,7 @@
             "demand": 11131,
             "time": "2025-07-25 01:00:00",
             "price": 163.10777244819647,
+            "price_setter": 3,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -36127,6 +36515,7 @@
             "demand": 11119,
             "time": "2025-07-25 01:15:00",
             "price": 163.0014245391705,
+            "price_setter": 6,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -36292,6 +36681,7 @@
             "demand": 11099,
             "time": "2025-07-25 01:30:00",
             "price": 162.89170852534562,
+            "price_setter": 6,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -36457,6 +36847,7 @@
             "demand": 11101,
             "time": "2025-07-25 01:45:00",
             "price": 162.89170852534562,
+            "price_setter": 21,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -36622,6 +37013,7 @@
             "demand": 11084,
             "time": "2025-07-25 02:00:00",
             "price": 162.74645070422534,
+            "price_setter": 50,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -36787,6 +37179,7 @@
             "demand": 11106,
             "time": "2025-07-25 02:15:00",
             "price": 162.91836849132176,
+            "price_setter": 9,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -36952,6 +37345,7 @@
             "demand": 11149,
             "time": "2025-07-25 02:30:00",
             "price": 163.2321643454039,
+            "price_setter": 27,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -37117,6 +37511,7 @@
             "demand": 11132,
             "time": "2025-07-25 02:45:00",
             "price": 163.11114055299538,
+            "price_setter": 6,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -37282,6 +37677,7 @@
             "demand": 11112,
             "time": "2025-07-25 03:00:00",
             "price": 162.96688997214486,
+            "price_setter": 27,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -37447,6 +37843,7 @@
             "demand": 11143,
             "time": "2025-07-25 03:15:00",
             "price": 163.1843916544656,
+            "price_setter": 12,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -37612,6 +38009,7 @@
             "demand": 11235,
             "time": "2025-07-25 03:30:00",
             "price": 163.85045769230769,
+            "price_setter": 38,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -37777,6 +38175,7 @@
             "demand": 11213,
             "time": "2025-07-25 03:45:00",
             "price": 163.7020294117647,
+            "price_setter": 7,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -37942,6 +38341,7 @@
             "demand": 11132,
             "time": "2025-07-25 04:00:00",
             "price": 163.11114055299538,
+            "price_setter": 6,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -38107,6 +38507,7 @@
             "demand": 11113,
             "time": "2025-07-25 04:15:00",
             "price": 162.96688997214486,
+            "price_setter": 28,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -38272,6 +38673,7 @@
             "demand": 11128,
             "time": "2025-07-25 04:30:00",
             "price": 163.06115603644648,
+            "price_setter": 19,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -38437,6 +38839,7 @@
             "demand": 11133,
             "time": "2025-07-25 04:45:00",
             "price": 163.11114055299538,
+            "price_setter": 20,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -38602,6 +39005,7 @@
             "demand": 11074,
             "time": "2025-07-25 05:00:00",
             "price": 162.70161559888578,
+            "price_setter": 26,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -38767,6 +39171,7 @@
             "demand": 11015,
             "time": "2025-07-25 05:15:00",
             "price": 162.23715010645847,
+            "price_setter": 2,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -38932,6 +39337,7 @@
             "demand": 11016,
             "time": "2025-07-25 05:30:00",
             "price": 162.2826308411215,
+            "price_setter": 9,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -39097,6 +39503,7 @@
             "demand": 11024,
             "time": "2025-07-25 05:45:00",
             "price": 162.3431284562212,
+            "price_setter": 6,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -39262,6 +39669,7 @@
             "demand": 10886,
             "time": "2025-07-25 06:00:00",
             "price": 161.35848757984385,
+            "price_setter": 2,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -39427,6 +39835,7 @@
             "demand": 10744,
             "time": "2025-07-25 06:15:00",
             "price": 160.3141462395543,
+            "price_setter": 30,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -39592,6 +40001,7 @@
             "demand": 10700,
             "time": "2025-07-25 06:30:00",
             "price": 160.0390921658986,
+            "price_setter": 21,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -39757,6 +40167,7 @@
             "demand": 10676,
             "time": "2025-07-25 06:45:00",
             "price": 159.84289411764706,
+            "price_setter": 7,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -39922,6 +40333,7 @@
             "demand": 10705,
             "time": "2025-07-25 07:00:00",
             "price": 160.04887186629526,
+            "price_setter": 30,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -40087,6 +40499,7 @@
             "demand": 10698,
             "time": "2025-07-25 07:15:00",
             "price": 160.0390921658986,
+            "price_setter": 6,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -40252,6 +40665,7 @@
             "demand": 10730,
             "time": "2025-07-25 07:30:00",
             "price": 160.25734535686877,
+            "price_setter": 3,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -40417,6 +40831,7 @@
             "demand": 10765,
             "time": "2025-07-25 07:45:00",
             "price": 160.47795622119816,
+            "price_setter": 6,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -40582,6 +40997,7 @@
             "demand": 10857,
             "time": "2025-07-25 08:00:00",
             "price": 161.13625230414746,
+            "price_setter": 6,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -40747,6 +41163,7 @@
             "demand": 10936,
             "time": "2025-07-25 08:15:00",
             "price": 161.7017572815534,
+            "price_setter": 5,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -40912,6 +41329,7 @@
             "demand": 10967,
             "time": "2025-07-25 08:30:00",
             "price": 161.90579247910864,
+            "price_setter": 29,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -41077,6 +41495,7 @@
             "demand": 10956,
             "time": "2025-07-25 08:45:00",
             "price": 161.83161355571326,
+            "price_setter": 2,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -41242,6 +41661,7 @@
             "demand": 10941,
             "time": "2025-07-25 09:00:00",
             "price": 161.75955922551253,
+            "price_setter": 19,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -41407,6 +41827,7 @@
             "demand": 10879,
             "time": "2025-07-25 09:15:00",
             "price": 161.32569362186788,
+            "price_setter": 19,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -41572,6 +41993,7 @@
             "demand": 10677,
             "time": "2025-07-25 09:30:00",
             "price": 159.84289411764706,
+            "price_setter": 22,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -41737,6 +42159,7 @@
             "demand": 10568,
             "time": "2025-07-25 09:45:00",
             "price": 159.10394259012017,
+            "price_setter": 9,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -41902,6 +42325,7 @@
             "demand": 10462,
             "time": "2025-07-25 10:00:00",
             "price": 100.92763896644175,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -41977,6 +42401,7 @@
             "demand": 10237,
             "time": "2025-07-25 10:15:00",
             "price": 99.31418883148113,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -42052,6 +42477,7 @@
             "demand": 9993,
             "time": "2025-07-25 10:30:00",
             "price": 97.56701928006242,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -42127,6 +42553,7 @@
             "demand": 9718,
             "time": "2025-07-25 10:45:00",
             "price": 95.596866217401,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -42202,6 +42629,7 @@
             "demand": 9561,
             "time": "2025-07-25 11:00:00",
             "price": 94.47115744333803,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -42277,6 +42705,7 @@
             "demand": 9388,
             "time": "2025-07-25 11:15:00",
             "price": 93.23077974914858,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -42352,6 +42781,7 @@
             "demand": 9220,
             "time": "2025-07-25 11:30:00",
             "price": 92.03097522409993,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -42427,6 +42857,7 @@
             "demand": 9067,
             "time": "2025-07-25 11:45:00",
             "price": 90.93084019441064,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -42502,6 +42933,7 @@
             "demand": 8950,
             "time": "2025-07-25 12:00:00",
             "price": 90.09389097346246,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -42577,6 +43009,7 @@
             "demand": 8819,
             "time": "2025-07-25 12:15:00",
             "price": 89.15597192822865,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -42652,6 +43085,7 @@
             "demand": 8734,
             "time": "2025-07-25 12:30:00",
             "price": 88.54475075509066,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -42727,6 +43161,7 @@
             "demand": 8459,
             "time": "2025-07-25 12:45:00",
             "price": 86.57824236456051,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -42802,6 +43237,7 @@
             "demand": 8270,
             "time": "2025-07-25 13:00:00",
             "price": 85.22077434178196,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -42877,6 +43313,7 @@
             "demand": 8217,
             "time": "2025-07-25 13:15:00",
             "price": 84.84639886183845,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -42952,6 +43389,7 @@
             "demand": 8163,
             "time": "2025-07-25 13:30:00",
             "price": 84.45831391641698,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -43027,6 +43465,7 @@
             "demand": 8080,
             "time": "2025-07-25 13:45:00",
             "price": 83.8616057574357,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -43102,6 +43541,7 @@
             "demand": 7991,
             "time": "2025-07-25 14:00:00",
             "price": 83.22486276666744,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -43177,6 +43617,7 @@
             "demand": 7840,
             "time": "2025-07-25 14:15:00",
             "price": 82.13824734775547,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -43252,6 +43693,7 @@
             "demand": 7731,
             "time": "2025-07-25 14:30:00",
             "price": 81.36738580769769,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -43327,6 +43769,7 @@
             "demand": 7670,
             "time": "2025-07-25 14:45:00",
             "price": 80.92293039549467,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -43402,6 +43845,7 @@
             "demand": 7498,
             "time": "2025-07-25 15:00:00",
             "price": 79.69336265520352,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -43477,6 +43921,7 @@
             "demand": 7268,
             "time": "2025-07-25 15:15:00",
             "price": 78.04163324052347,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -43552,6 +43997,7 @@
             "demand": 6975,
             "time": "2025-07-25 15:30:00",
             "price": 10.076104428844229,
+            "price_setter": 15,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -43618,6 +44064,7 @@
             "demand": 6711,
             "time": "2025-07-25 15:45:00",
             "price": 8.667008354464063,
+            "price_setter": 15,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -43684,6 +44131,7 @@
             "demand": 6578,
             "time": "2025-07-25 16:00:00",
             "price": 0.0,
+            "price_setter": 49,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -43747,6 +44195,7 @@
             "demand": 6474,
             "time": "2025-07-25 16:15:00",
             "price": 0.0,
+            "price_setter": 47,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -43807,6 +44256,7 @@
             "demand": 6562,
             "time": "2025-07-25 16:30:00",
             "price": 0.0,
+            "price_setter": 49,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -43870,6 +44320,7 @@
             "demand": 6740,
             "time": "2025-07-25 16:45:00",
             "price": 8.82179542324067,
+            "price_setter": 15,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -43936,6 +44387,7 @@
             "demand": 6854,
             "time": "2025-07-25 17:00:00",
             "price": 9.430268728086652,
+            "price_setter": 15,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -44002,6 +44454,7 @@
             "demand": 6841,
             "time": "2025-07-25 17:15:00",
             "price": 9.360881421393689,
+            "price_setter": 15,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -44068,6 +44521,7 @@
             "demand": 6949,
             "time": "2025-07-25 17:30:00",
             "price": 9.937329815458302,
+            "price_setter": 15,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -44134,6 +44588,7 @@
             "demand": 7084,
             "time": "2025-07-25 17:45:00",
             "price": 10.657890308039068,
+            "price_setter": 15,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -44200,6 +44655,7 @@
             "demand": 7310,
             "time": "2025-07-25 18:00:00",
             "price": 78.34815421445657,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -44275,6 +44731,7 @@
             "demand": 7666,
             "time": "2025-07-25 18:15:00",
             "price": 80.89316718025215,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -44350,6 +44807,7 @@
             "demand": 7967,
             "time": "2025-07-25 18:30:00",
             "price": 83.05325116432978,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -44425,6 +44883,7 @@
             "demand": 8142,
             "time": "2025-07-25 18:45:00",
             "price": 84.30998715745551,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -44500,6 +44959,7 @@
             "demand": 8348,
             "time": "2025-07-25 19:00:00",
             "price": 85.78293656535605,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -44575,6 +45035,7 @@
             "demand": 8633,
             "time": "2025-07-25 19:15:00",
             "price": 87.82034047581601,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -44650,6 +45111,7 @@
             "demand": 9040,
             "time": "2025-07-25 19:30:00",
             "price": 90.74061941414196,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -44725,6 +45187,7 @@
             "demand": 9420,
             "time": "2025-07-25 19:45:00",
             "price": 93.45963822935877,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -44800,6 +45263,7 @@
             "demand": 9757,
             "time": "2025-07-25 20:00:00",
             "price": 95.87940483274652,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -44875,6 +45339,7 @@
             "demand": 10071,
             "time": "2025-07-25 20:15:00",
             "price": 98.12054913425249,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -44950,6 +45415,7 @@
             "demand": 10369,
             "time": "2025-07-25 20:30:00",
             "price": 100.26440385067377,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -45025,6 +45491,7 @@
             "demand": 10637,
             "time": "2025-07-25 20:45:00",
             "price": 159.57279910714286,
+            "price_setter": 33,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -45190,6 +45657,7 @@
             "demand": 10831,
             "time": "2025-07-25 21:00:00",
             "price": 160.9632882352941,
+            "price_setter": 7,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -45355,6 +45823,7 @@
             "demand": 10994,
             "time": "2025-07-25 21:15:00",
             "price": 162.15433783783783,
+            "price_setter": 48,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -45520,6 +45989,7 @@
             "demand": 11145,
             "time": "2025-07-25 21:30:00",
             "price": 163.20407647058823,
+            "price_setter": 22,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -45685,6 +46155,7 @@
             "demand": 11304,
             "time": "2025-07-25 21:45:00",
             "price": 164.31699132176234,
+            "price_setter": 9,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -45850,6 +46321,7 @@
             "demand": 11366,
             "time": "2025-07-25 22:00:00",
             "price": 164.78879355333845,
+            "price_setter": 3,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -46015,6 +46487,7 @@
             "demand": 11444,
             "time": "2025-07-25 22:15:00",
             "price": 165.3341715620828,
+            "price_setter": 9,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -46180,6 +46653,7 @@
             "demand": 11467,
             "time": "2025-07-25 22:30:00",
             "price": 165.48144251242016,
+            "price_setter": 2,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -46345,6 +46819,7 @@
             "demand": 11429,
             "time": "2025-07-25 22:45:00",
             "price": 165.22522797356828,
+            "price_setter": 17,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -46510,6 +46985,7 @@
             "demand": 11351,
             "time": "2025-07-25 23:00:00",
             "price": 164.67036941092974,
+            "price_setter": 2,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -46675,6 +47151,7 @@
             "demand": 11318,
             "time": "2025-07-25 23:15:00",
             "price": 164.427732718894,
+            "price_setter": 20,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -46840,6 +47317,7 @@
             "demand": 11364,
             "time": "2025-07-25 23:30:00",
             "price": 164.77262823529412,
+            "price_setter": 22,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -47005,6 +47483,7 @@
             "demand": 11362,
             "time": "2025-07-25 23:45:00",
             "price": 164.75539140271493,
+            "price_setter": 18,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -47170,6 +47649,7 @@
             "demand": 11367,
             "time": "2025-07-26 00:00:00",
             "price": 164.79661845102504,
+            "price_setter": 19,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -47335,6 +47815,7 @@
             "demand": 11315,
             "time": "2025-07-26 00:15:00",
             "price": 164.40001171043292,
+            "price_setter": 2,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -47500,6 +47981,7 @@
             "demand": 11264,
             "time": "2025-07-26 00:30:00",
             "price": 164.02798746518107,
+            "price_setter": 30,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -47665,6 +48147,7 @@
             "demand": 11221,
             "time": "2025-07-26 00:45:00",
             "price": 163.762713091922,
+            "price_setter": 26,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -47830,6 +48313,7 @@
             "demand": 11170,
             "time": "2025-07-26 01:00:00",
             "price": 163.3454854368932,
+            "price_setter": 5,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -47995,6 +48479,7 @@
             "demand": 11044,
             "time": "2025-07-26 01:15:00",
             "price": 162.45714705882352,
+            "price_setter": 7,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -48160,6 +48645,7 @@
             "demand": 10946,
             "time": "2025-07-26 01:30:00",
             "price": 161.7900505124451,
+            "price_setter": 12,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -48325,6 +48811,7 @@
             "demand": 10916,
             "time": "2025-07-26 01:45:00",
             "price": 161.575116359447,
+            "price_setter": 20,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -48490,6 +48977,7 @@
             "demand": 10949,
             "time": "2025-07-26 02:00:00",
             "price": 161.79454838709677,
+            "price_setter": 20,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -48655,6 +49143,7 @@
             "demand": 10939,
             "time": "2025-07-26 02:15:00",
             "price": 161.72198031496063,
+            "price_setter": 40,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -48820,6 +49309,7 @@
             "demand": 10852,
             "time": "2025-07-26 02:30:00",
             "price": 161.10996935933147,
+            "price_setter": 27,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -48985,6 +49475,7 @@
             "demand": 10804,
             "time": "2025-07-26 02:45:00",
             "price": 160.779379049676,
+            "price_setter": 16,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -49150,6 +49641,7 @@
             "demand": 10778,
             "time": "2025-07-26 03:00:00",
             "price": 160.57942061281338,
+            "price_setter": 28,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -49315,6 +49807,7 @@
             "demand": 10740,
             "time": "2025-07-26 03:15:00",
             "price": 160.3141462395543,
+            "price_setter": 26,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -49480,6 +49973,7 @@
             "demand": 10658,
             "time": "2025-07-26 03:30:00",
             "price": 159.7457302379125,
+            "price_setter": 3,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -49645,6 +50139,7 @@
             "demand": 10598,
             "time": "2025-07-26 03:45:00",
             "price": 159.30720299309286,
+            "price_setter": 3,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -49810,6 +50305,7 @@
             "demand": 10534,
             "time": "2025-07-26 04:00:00",
             "price": 158.82523300970874,
+            "price_setter": 5,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -49975,6 +50471,7 @@
             "demand": 10487,
             "time": "2025-07-26 04:15:00",
             "price": 101.10733652898982,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -50050,6 +50547,7 @@
             "demand": 10470,
             "time": "2025-07-26 04:30:00",
             "price": 100.98472813941657,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -50125,6 +50623,7 @@
             "demand": 10411,
             "time": "2025-07-26 04:45:00",
             "price": 100.56543382680442,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -50200,6 +50699,7 @@
             "demand": 10394,
             "time": "2025-07-26 05:00:00",
             "price": 100.43683239580477,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -50275,6 +50775,7 @@
             "demand": 10417,
             "time": "2025-07-26 05:15:00",
             "price": 100.60258466218846,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -50350,6 +50851,7 @@
             "demand": 10448,
             "time": "2025-07-26 05:30:00",
             "price": 100.83146765245002,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -50425,6 +50927,7 @@
             "demand": 10466,
             "time": "2025-07-26 05:45:00",
             "price": 100.95407604202326,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -50500,6 +51003,7 @@
             "demand": 10430,
             "time": "2025-07-26 06:00:00",
             "price": 100.70126075416843,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -50575,6 +51079,7 @@
             "demand": 10345,
             "time": "2025-07-26 06:15:00",
             "price": 100.09003958103044,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -50650,6 +51155,7 @@
             "demand": 10172,
             "time": "2025-07-26 06:30:00",
             "price": 98.84561063852134,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -50725,6 +51231,7 @@
             "demand": 9992,
             "time": "2025-07-26 06:45:00",
             "price": 97.55460360356915,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -50800,6 +51307,7 @@
             "demand": 9838,
             "time": "2025-07-26 07:00:00",
             "price": 96.45877800259619,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -50875,6 +51383,7 @@
             "demand": 9517,
             "time": "2025-07-26 07:15:00",
             "price": 94.15893041946921,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -50950,6 +51459,7 @@
             "demand": 9060,
             "time": "2025-07-26 07:30:00",
             "price": 90.88486204832067,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -51025,6 +51535,7 @@
             "demand": 8677,
             "time": "2025-07-26 07:45:00",
             "price": 88.13801423013491,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -51100,6 +51611,7 @@
             "demand": 8426,
             "time": "2025-07-26 08:00:00",
             "price": 86.34788975319105,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -51175,6 +51687,7 @@
             "demand": 8081,
             "time": "2025-07-26 08:15:00",
             "price": 83.86553174525251,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -51250,6 +51763,7 @@
             "demand": 7697,
             "time": "2025-07-26 08:30:00",
             "price": 81.11954539252548,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -51325,6 +51839,7 @@
             "demand": 7442,
             "time": "2025-07-26 08:45:00",
             "price": 79.28684320524583,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -51400,6 +51915,7 @@
             "demand": 7109,
             "time": "2025-07-26 09:00:00",
             "price": 10.791327436294766,
+            "price_setter": 15,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -51466,6 +51982,7 @@
             "demand": 6660,
             "time": "2025-07-26 09:15:00",
             "price": 8.39479661282244,
+            "price_setter": 15,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -51532,6 +52049,7 @@
             "demand": 6149,
             "time": "2025-07-26 09:30:00",
             "price": 0.0,
+            "price_setter": 44,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -51583,6 +52101,7 @@
             "demand": 5636,
             "time": "2025-07-26 09:45:00",
             "price": 0.0,
+            "price_setter": 36,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -51622,6 +52141,7 @@
             "demand": 5090,
             "time": "2025-07-26 10:00:00",
             "price": 0.0,
+            "price_setter": 25,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -51655,6 +52175,7 @@
             "demand": 4589,
             "time": "2025-07-26 10:15:00",
             "price": 0.0,
+            "price_setter": 24,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -51685,6 +52206,7 @@
             "demand": 4167,
             "time": "2025-07-26 10:30:00",
             "price": 0.0,
+            "price_setter": 23,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -51712,6 +52234,7 @@
             "demand": 3880,
             "time": "2025-07-26 10:45:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -51736,6 +52259,7 @@
             "demand": 3757,
             "time": "2025-07-26 11:00:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -51760,6 +52284,7 @@
             "demand": 3494,
             "time": "2025-07-26 11:15:00",
             "price": 0.0,
+            "price_setter": 13,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -51781,6 +52306,7 @@
             "demand": 2824,
             "time": "2025-07-26 11:30:00",
             "price": 0.0,
+            "price_setter": 10,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -51799,6 +52325,7 @@
             "demand": 2417,
             "time": "2025-07-26 11:45:00",
             "price": 0.0,
+            "price_setter": 10,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -51817,6 +52344,7 @@
             "demand": 2251,
             "time": "2025-07-26 12:00:00",
             "price": 0.0,
+            "price_setter": 10,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -51835,6 +52363,7 @@
             "demand": 2332,
             "time": "2025-07-26 12:15:00",
             "price": 0.0,
+            "price_setter": 10,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -51853,6 +52382,7 @@
             "demand": 2525,
             "time": "2025-07-26 12:30:00",
             "price": 0.0,
+            "price_setter": 10,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -51871,6 +52401,7 @@
             "demand": 2605,
             "time": "2025-07-26 12:45:00",
             "price": 0.0,
+            "price_setter": 10,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -51889,6 +52420,7 @@
             "demand": 2714,
             "time": "2025-07-26 13:00:00",
             "price": 0.0,
+            "price_setter": 10,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -51907,6 +52439,7 @@
             "demand": 2876,
             "time": "2025-07-26 13:15:00",
             "price": 0.0,
+            "price_setter": 10,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -51925,6 +52458,7 @@
             "demand": 3028,
             "time": "2025-07-26 13:30:00",
             "price": 0.0,
+            "price_setter": 13,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -51946,6 +52480,7 @@
             "demand": 3241,
             "time": "2025-07-26 13:45:00",
             "price": 0.0,
+            "price_setter": 13,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -51967,6 +52502,7 @@
             "demand": 3633,
             "time": "2025-07-26 14:00:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -51991,6 +52527,7 @@
             "demand": 4019,
             "time": "2025-07-26 14:15:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -52015,6 +52552,7 @@
             "demand": 4400,
             "time": "2025-07-26 14:30:00",
             "price": 0.0,
+            "price_setter": 23,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -52042,6 +52580,7 @@
             "demand": 4591,
             "time": "2025-07-26 14:45:00",
             "price": 0.0,
+            "price_setter": 24,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -52072,6 +52611,7 @@
             "demand": 4697,
             "time": "2025-07-26 15:00:00",
             "price": 0.0,
+            "price_setter": 24,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -52102,6 +52642,7 @@
             "demand": 4746,
             "time": "2025-07-26 15:15:00",
             "price": 0.0,
+            "price_setter": 24,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -52132,6 +52673,7 @@
             "demand": 4921,
             "time": "2025-07-26 15:30:00",
             "price": 0.0,
+            "price_setter": 25,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -52165,6 +52707,7 @@
             "demand": 5158,
             "time": "2025-07-26 15:45:00",
             "price": 0.0,
+            "price_setter": 25,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -52198,6 +52741,7 @@
             "demand": 5461,
             "time": "2025-07-26 16:00:00",
             "price": 0.0,
+            "price_setter": 35,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -52234,6 +52778,7 @@
             "demand": 5800,
             "time": "2025-07-26 16:15:00",
             "price": 0.0,
+            "price_setter": 37,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -52276,6 +52821,7 @@
             "demand": 6193,
             "time": "2025-07-26 16:30:00",
             "price": 0.0,
+            "price_setter": 45,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -52330,6 +52876,7 @@
             "demand": 6536,
             "time": "2025-07-26 16:45:00",
             "price": 0.0,
+            "price_setter": 49,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -52393,6 +52940,7 @@
             "demand": 6897,
             "time": "2025-07-26 17:00:00",
             "price": 9.659780588686452,
+            "price_setter": 15,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -52459,6 +53007,7 @@
             "demand": 7266,
             "time": "2025-07-26 17:15:00",
             "price": 78.02712598072978,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -52534,6 +53083,7 @@
             "demand": 7732,
             "time": "2025-07-26 17:30:00",
             "price": 81.36856142602615,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -52609,6 +53159,7 @@
             "demand": 8180,
             "time": "2025-07-26 17:45:00",
             "price": 84.58313204030742,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -52684,6 +53235,7 @@
             "demand": 8531,
             "time": "2025-07-26 18:00:00",
             "price": 87.09593019654136,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -52759,6 +53311,7 @@
             "demand": 8833,
             "time": "2025-07-26 18:15:00",
             "price": 89.2603008864752,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -52834,6 +53387,7 @@
             "demand": 9062,
             "time": "2025-07-26 18:30:00",
             "price": 90.89908416273329,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -52909,6 +53463,7 @@
             "demand": 9251,
             "time": "2025-07-26 18:45:00",
             "price": 92.24888038232301,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -52984,6 +53539,7 @@
             "demand": 9414,
             "time": "2025-07-26 19:00:00",
             "price": 93.41366008326881,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -53059,6 +53615,7 @@
             "demand": 9611,
             "time": "2025-07-26 19:15:00",
             "price": 94.83440579203602,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -53134,6 +53691,7 @@
             "demand": 9885,
             "time": "2025-07-26 19:30:00",
             "price": 96.79028253536357,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -53209,6 +53767,7 @@
             "demand": 10118,
             "time": "2025-07-26 19:45:00",
             "price": 98.46011645266248,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -53284,6 +53843,7 @@
             "demand": 10353,
             "time": "2025-07-26 20:00:00",
             "price": 100.14179546110053,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -53359,6 +53919,7 @@
             "demand": 10473,
             "time": "2025-07-26 20:15:00",
             "price": 101.00039010150932,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -53434,6 +53995,7 @@
             "demand": 10493,
             "time": "2025-07-26 20:30:00",
             "price": 101.15331467507978,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -53509,6 +54071,7 @@
             "demand": 10548,
             "time": "2025-07-26 20:45:00",
             "price": 158.94193202764976,
+            "price_setter": 6,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -53674,6 +54237,7 @@
             "demand": 10606,
             "time": "2025-07-26 21:00:00",
             "price": 159.37329840546695,
+            "price_setter": 19,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -53839,6 +54403,7 @@
             "demand": 10687,
             "time": "2025-07-26 21:15:00",
             "price": 159.96499386032232,
+            "price_setter": 3,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -54004,6 +54569,7 @@
             "demand": 10701,
             "time": "2025-07-26 21:30:00",
             "price": 160.04887186629526,
+            "price_setter": 26,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -54169,6 +54735,7 @@
             "demand": 10789,
             "time": "2025-07-26 21:45:00",
             "price": 160.67172368421052,
+            "price_setter": 31,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -54334,6 +54901,7 @@
             "demand": 10863,
             "time": "2025-07-26 22:00:00",
             "price": 161.1880922330097,
+            "price_setter": 5,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -54499,6 +55067,7 @@
             "demand": 10966,
             "time": "2025-07-26 22:15:00",
             "price": 161.90579247910864,
+            "price_setter": 28,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -54664,6 +55233,7 @@
             "demand": 11033,
             "time": "2025-07-26 22:30:00",
             "price": 162.42488228941684,
+            "price_setter": 16,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -54829,6 +55399,7 @@
             "demand": 11057,
             "time": "2025-07-26 22:45:00",
             "price": 162.5750972320795,
+            "price_setter": 2,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -54994,6 +55565,7 @@
             "demand": 10991,
             "time": "2025-07-26 23:00:00",
             "price": 162.11268932038834,
+            "price_setter": 5,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -55159,6 +55731,7 @@
             "demand": 10901,
             "time": "2025-07-26 23:15:00",
             "price": 161.4267513430545,
+            "price_setter": 3,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -55324,6 +55897,7 @@
             "demand": 10891,
             "time": "2025-07-26 23:30:00",
             "price": 161.37524373259052,
+            "price_setter": 29,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -55489,6 +56063,7 @@
             "demand": 10854,
             "time": "2025-07-26 23:45:00",
             "price": 161.10996935933147,
+            "price_setter": 29,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -55654,6 +56229,7 @@
             "demand": 10838,
             "time": "2025-07-27 00:00:00",
             "price": 161.02054045422284,
+            "price_setter": 2,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -55819,6 +56395,7 @@
             "demand": 10814,
             "time": "2025-07-27 00:15:00",
             "price": 160.84469498607243,
+            "price_setter": 29,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -55984,6 +56561,7 @@
             "demand": 10797,
             "time": "2025-07-27 00:30:00",
             "price": 160.69738824884791,
+            "price_setter": 21,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -56149,6 +56727,7 @@
             "demand": 10786,
             "time": "2025-07-27 00:45:00",
             "price": 160.6297129506008,
+            "price_setter": 9,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -56314,6 +56893,7 @@
             "demand": 10709,
             "time": "2025-07-27 01:00:00",
             "price": 160.06697294117646,
+            "price_setter": 22,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -56479,6 +57059,7 @@
             "demand": 10632,
             "time": "2025-07-27 01:15:00",
             "price": 159.5443640776699,
+            "price_setter": 5,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -56644,6 +57225,7 @@
             "demand": 10519,
             "time": "2025-07-27 01:30:00",
             "price": 158.7225,
+            "price_setter": 29,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -56773,6 +57355,7 @@
             "demand": 10459,
             "time": "2025-07-27 01:45:00",
             "price": 100.90500114521443,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -56848,6 +57431,7 @@
             "demand": 10416,
             "time": "2025-07-27 02:00:00",
             "price": 100.60157692200019,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -56923,6 +57507,7 @@
             "demand": 10368,
             "time": "2025-07-27 02:15:00",
             "price": 100.24907780197711,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -56998,6 +57583,7 @@
             "demand": 10302,
             "time": "2025-07-27 02:30:00",
             "price": 99.7739702923808,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -57073,6 +57659,7 @@
             "demand": 10241,
             "time": "2025-07-27 02:45:00",
             "price": 99.34299148052845,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -57148,6 +57735,7 @@
             "demand": 10148,
             "time": "2025-07-27 03:00:00",
             "price": 98.67985837213764,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -57223,6 +57811,7 @@
             "demand": 10016,
             "time": "2025-07-27 03:15:00",
             "price": 97.73560581572563,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -57298,6 +57887,7 @@
             "demand": 9878,
             "time": "2025-07-27 03:30:00",
             "price": 96.73964203938517,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -57373,6 +57963,7 @@
             "demand": 9824,
             "time": "2025-07-27 03:45:00",
             "price": 96.35626143302665,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -57448,6 +58039,7 @@
             "demand": 9822,
             "time": "2025-07-27 04:00:00",
             "price": 96.34093538433,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -57523,6 +58115,7 @@
             "demand": 9822,
             "time": "2025-07-27 04:15:00",
             "price": 96.34093538433,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -57598,6 +58191,7 @@
             "demand": 9860,
             "time": "2025-07-27 04:30:00",
             "price": 96.61680426086978,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -57673,6 +58267,7 @@
             "demand": 9902,
             "time": "2025-07-27 04:45:00",
             "price": 96.92074460920384,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -57748,6 +58343,7 @@
             "demand": 9874,
             "time": "2025-07-27 05:00:00",
             "price": 96.71700421815784,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -57823,6 +58419,7 @@
             "demand": 9843,
             "time": "2025-07-27 05:15:00",
             "price": 96.49192845587294,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -57898,6 +58495,7 @@
             "demand": 9840,
             "time": "2025-07-27 05:30:00",
             "price": 96.46798818465717,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -57973,6 +58571,7 @@
             "demand": 9831,
             "time": "2025-07-27 05:45:00",
             "price": 96.40223957911661,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -58048,6 +58647,7 @@
             "demand": 9844,
             "time": "2025-07-27 06:00:00",
             "price": 96.49419587129654,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -58123,6 +58723,7 @@
             "demand": 9764,
             "time": "2025-07-27 06:15:00",
             "price": 95.9271320695203,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -58198,6 +58799,7 @@
             "demand": 9625,
             "time": "2025-07-27 06:30:00",
             "price": 94.9309389042377,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -58273,6 +58875,7 @@
             "demand": 9569,
             "time": "2025-07-27 06:45:00",
             "price": 94.53246163812466,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -58348,6 +58951,7 @@
             "demand": 9449,
             "time": "2025-07-27 07:00:00",
             "price": 93.67413992735018,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -58423,6 +59027,7 @@
             "demand": 9176,
             "time": "2025-07-27 07:15:00",
             "price": 91.71404572691728,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -58498,6 +59103,7 @@
             "demand": 8864,
             "time": "2025-07-27 07:30:00",
             "price": 89.47486556822838,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -58573,6 +59179,7 @@
             "demand": 8627,
             "time": "2025-07-27 07:45:00",
             "price": 87.77506483336136,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -58648,6 +59255,7 @@
             "demand": 8381,
             "time": "2025-07-27 08:00:00",
             "price": 86.01638522042367,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -58723,6 +59331,7 @@
             "demand": 8090,
             "time": "2025-07-27 08:15:00",
             "price": 83.92790666398918,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -58798,6 +59407,7 @@
             "demand": 7834,
             "time": "2025-07-27 08:30:00",
             "price": 82.10303614513714,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -58873,6 +59483,7 @@
             "demand": 7592,
             "time": "2025-07-27 08:45:00",
             "price": 80.37119264241508,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -58948,6 +59559,7 @@
             "demand": 7338,
             "time": "2025-07-27 09:00:00",
             "price": 78.5473928475131,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59023,6 +59635,7 @@
             "demand": 6878,
             "time": "2025-07-27 09:15:00",
             "price": 9.558368371212122,
+            "price_setter": 15,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59089,6 +59702,7 @@
             "demand": 6299,
             "time": "2025-07-27 09:30:00",
             "price": 0.0,
+            "price_setter": 46,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59146,6 +59760,7 @@
             "demand": 5943,
             "time": "2025-07-27 09:45:00",
             "price": 0.0,
+            "price_setter": 43,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59194,6 +59809,7 @@
             "demand": 5752,
             "time": "2025-07-27 10:00:00",
             "price": 0.0,
+            "price_setter": 37,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59236,6 +59852,7 @@
             "demand": 5577,
             "time": "2025-07-27 10:15:00",
             "price": 0.0,
+            "price_setter": 36,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59275,6 +59892,7 @@
             "demand": 5352,
             "time": "2025-07-27 10:30:00",
             "price": 0.0,
+            "price_setter": 35,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59311,6 +59929,7 @@
             "demand": 5053,
             "time": "2025-07-27 10:45:00",
             "price": 0.0,
+            "price_setter": 25,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59344,6 +59963,7 @@
             "demand": 4770,
             "time": "2025-07-27 11:00:00",
             "price": 0.0,
+            "price_setter": 24,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59374,6 +59994,7 @@
             "demand": 4568,
             "time": "2025-07-27 11:15:00",
             "price": 0.0,
+            "price_setter": 24,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59404,6 +60025,7 @@
             "demand": 4140,
             "time": "2025-07-27 11:30:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59428,6 +60050,7 @@
             "demand": 3931,
             "time": "2025-07-27 11:45:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59452,6 +60075,7 @@
             "demand": 3795,
             "time": "2025-07-27 12:00:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59476,6 +60100,7 @@
             "demand": 3669,
             "time": "2025-07-27 12:15:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59500,6 +60125,7 @@
             "demand": 3716,
             "time": "2025-07-27 12:30:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59524,6 +60150,7 @@
             "demand": 3888,
             "time": "2025-07-27 12:45:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59548,6 +60175,7 @@
             "demand": 3962,
             "time": "2025-07-27 13:00:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59572,6 +60200,7 @@
             "demand": 3992,
             "time": "2025-07-27 13:15:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59596,6 +60225,7 @@
             "demand": 3982,
             "time": "2025-07-27 13:30:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59620,6 +60250,7 @@
             "demand": 3773,
             "time": "2025-07-27 13:45:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59644,6 +60275,7 @@
             "demand": 3712,
             "time": "2025-07-27 14:00:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59668,6 +60300,7 @@
             "demand": 3743,
             "time": "2025-07-27 14:15:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59692,6 +60325,7 @@
             "demand": 3699,
             "time": "2025-07-27 14:30:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59716,6 +60350,7 @@
             "demand": 3628,
             "time": "2025-07-27 14:45:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59740,6 +60375,7 @@
             "demand": 3580,
             "time": "2025-07-27 15:00:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59764,6 +60400,7 @@
             "demand": 3672,
             "time": "2025-07-27 15:15:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59788,6 +60425,7 @@
             "demand": 3824,
             "time": "2025-07-27 15:30:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59812,6 +60450,7 @@
             "demand": 3926,
             "time": "2025-07-27 15:45:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59836,6 +60475,7 @@
             "demand": 3900,
             "time": "2025-07-27 16:00:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59860,6 +60500,7 @@
             "demand": 4025,
             "time": "2025-07-27 16:15:00",
             "price": 0.0,
+            "price_setter": 14,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59884,6 +60525,7 @@
             "demand": 4284,
             "time": "2025-07-27 16:30:00",
             "price": 0.0,
+            "price_setter": 23,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59911,6 +60553,7 @@
             "demand": 4564,
             "time": "2025-07-27 16:45:00",
             "price": 0.0,
+            "price_setter": 24,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59941,6 +60584,7 @@
             "demand": 4875,
             "time": "2025-07-27 17:00:00",
             "price": 0.0,
+            "price_setter": 24,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -59971,6 +60615,7 @@
             "demand": 5419,
             "time": "2025-07-27 17:15:00",
             "price": 0.0,
+            "price_setter": 35,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -60007,6 +60652,7 @@
             "demand": 6061,
             "time": "2025-07-27 17:30:00",
             "price": 0.0,
+            "price_setter": 44,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -60058,6 +60704,7 @@
             "demand": 6554,
             "time": "2025-07-27 17:45:00",
             "price": 0.0,
+            "price_setter": 49,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -60121,6 +60768,7 @@
             "demand": 6879,
             "time": "2025-07-27 18:00:00",
             "price": 9.563705856342349,
+            "price_setter": 15,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -60187,6 +60835,7 @@
             "demand": 7195,
             "time": "2025-07-27 18:15:00",
             "price": 77.52054758483717,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -60262,6 +60911,7 @@
             "demand": 7523,
             "time": "2025-07-27 18:30:00",
             "price": 79.87446522502218,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -60337,6 +60987,7 @@
             "demand": 7815,
             "time": "2025-07-27 18:45:00",
             "price": 81.96510170686724,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -60412,6 +61063,7 @@
             "demand": 8060,
             "time": "2025-07-27 19:00:00",
             "price": 83.72289483366876,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -60487,6 +61139,7 @@
             "demand": 8281,
             "time": "2025-07-27 19:15:00",
             "price": 85.30618032273811,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -60562,6 +61215,7 @@
             "demand": 8503,
             "time": "2025-07-27 19:30:00",
             "price": 86.89218980549536,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -60637,6 +61291,7 @@
             "demand": 8605,
             "time": "2025-07-27 19:45:00",
             "price": 87.62041367593308,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -60712,6 +61367,7 @@
             "demand": 8734,
             "time": "2025-07-27 20:00:00",
             "price": 88.54475075509066,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -60787,6 +61443,7 @@
             "demand": 8950,
             "time": "2025-07-27 20:15:00",
             "price": 90.09389097346246,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -60862,6 +61519,7 @@
             "demand": 9249,
             "time": "2025-07-27 20:30:00",
             "price": 92.23471561514593,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -60937,6 +61595,7 @@
             "demand": 9481,
             "time": "2025-07-27 20:45:00",
             "price": 93.90409364156179,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -61012,6 +61671,7 @@
             "demand": 9655,
             "time": "2025-07-27 21:00:00",
             "price": 95.14550358599087,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -61087,6 +61747,7 @@
             "demand": 9879,
             "time": "2025-07-27 21:15:00",
             "price": 96.7547386991397,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -61162,6 +61823,7 @@
             "demand": 10142,
             "time": "2025-07-27 21:30:00",
             "price": 98.63984268882831,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -61237,6 +61899,7 @@
             "demand": 10289,
             "time": "2025-07-27 21:45:00",
             "price": 99.68255879893844,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -61312,6 +61975,7 @@
             "demand": 10375,
             "time": "2025-07-27 22:00:00",
             "price": 100.30423058269781,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -61387,6 +62051,7 @@
             "demand": 10459,
             "time": "2025-07-27 22:15:00",
             "price": 100.90500114521443,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -61462,6 +62127,7 @@
             "demand": 10625,
             "time": "2025-07-27 22:30:00",
             "price": 159.51832311977716,
+            "price_setter": 26,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -61627,6 +62293,7 @@
             "demand": 10634,
             "time": "2025-07-27 22:45:00",
             "price": 159.55788157894736,
+            "price_setter": 31,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -61792,6 +62459,7 @@
             "demand": 10597,
             "time": "2025-07-27 23:00:00",
             "price": 159.28023645680818,
+            "price_setter": 12,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -61957,6 +62625,7 @@
             "demand": 10456,
             "time": "2025-07-27 23:15:00",
             "price": 100.8823633239871,
+            "price_setter": 4,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -62032,6 +62701,7 @@
             "demand": 10435,
             "time": "2025-07-27 23:30:00",
             "price": 100.73518647529541,
+            "price_setter": 11,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -62107,6 +62777,7 @@
             "demand": 10413,
             "time": "2025-07-27 23:45:00",
             "price": 100.57092482460688,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {
@@ -62182,6 +62853,7 @@
             "demand": 10360,
             "time": "2025-07-28 00:00:00",
             "price": 100.20309965588714,
+            "price_setter": 0,
             "power_stack": {
                 "sources": {
                     "1": {

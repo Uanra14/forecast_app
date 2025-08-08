@@ -10,7 +10,7 @@ def main():
     simulator = MarketSimulator(demand_data)
     simulator.generate_price_forecast()
 
-    with open('../outputs/price_forecast.json', 'w') as f:
+    with open('../outputs/results.json', 'w') as f:
         json.dump(simulator.to_dict(), f, indent=4)
 
 if __name__ == "__main__":
