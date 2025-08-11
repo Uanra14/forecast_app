@@ -9,6 +9,7 @@
         "eff_low": 0.35,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83e\udea8",
         "idx": 0
     },
     {
@@ -21,6 +22,7 @@
         "eff_low": 1.0,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\u2753",
         "idx": 1
     },
     {
@@ -33,6 +35,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 2
     },
     {
@@ -45,6 +48,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 3
     },
     {
@@ -57,6 +61,7 @@
         "eff_low": 0.35,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83e\udea8",
         "idx": 4
     },
     {
@@ -69,6 +74,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 5
     },
     {
@@ -81,6 +87,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 6
     },
     {
@@ -93,6 +100,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 7
     },
     {
@@ -105,6 +113,7 @@
         "eff_low": 1.0,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\u2753",
         "idx": 8
     },
     {
@@ -117,6 +126,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 9
     },
     {
@@ -129,6 +139,7 @@
         "eff_low": 1.0,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\u2753",
         "idx": 10
     },
     {
@@ -141,6 +152,7 @@
         "eff_low": 0.35,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83e\udea8",
         "idx": 11
     },
     {
@@ -153,6 +165,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 12
     },
     {
@@ -165,6 +178,7 @@
         "eff_low": 1.0,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83c\udf31",
         "idx": 13
     },
     {
@@ -177,6 +191,7 @@
         "eff_low": 1.0,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\u2753",
         "idx": 14
     },
     {
@@ -189,6 +204,7 @@
         "eff_low": 0.32,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\u269b\ufe0f",
         "idx": 15
     },
     {
@@ -201,6 +217,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 16
     },
     {
@@ -213,6 +230,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 17
     },
     {
@@ -225,6 +243,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 18
     },
     {
@@ -237,6 +256,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 19
     },
     {
@@ -249,6 +269,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 20
     },
     {
@@ -261,6 +282,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 21
     },
     {
@@ -273,6 +295,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 22
     },
     {
@@ -285,6 +308,7 @@
         "eff_low": 1.0,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\u2753",
         "idx": 23
     },
     {
@@ -297,6 +321,7 @@
         "eff_low": 1.0,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\u2753",
         "idx": 24
     },
     {
@@ -309,6 +334,7 @@
         "eff_low": 1.0,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\u2753",
         "idx": 25
     },
     {
@@ -321,6 +347,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 26
     },
     {
@@ -333,6 +360,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 27
     },
     {
@@ -345,6 +373,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 28
     },
     {
@@ -357,6 +386,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 29
     },
     {
@@ -369,6 +399,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 30
     },
     {
@@ -381,6 +412,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 31
     },
     {
@@ -393,6 +425,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 32
     },
     {
@@ -405,6 +438,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 33
     },
     {
@@ -417,6 +451,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 34
     },
     {
@@ -429,6 +464,7 @@
         "eff_low": 1.0,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\u2753",
         "idx": 35
     },
     {
@@ -441,6 +477,7 @@
         "eff_low": 1.0,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\u2753",
         "idx": 36
     },
     {
@@ -453,6 +490,7 @@
         "eff_low": 1.0,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\u2753",
         "idx": 37
     },
     {
@@ -465,6 +503,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 38
     },
     {
@@ -477,6 +516,7 @@
         "eff_low": 1.0,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\u2753",
         "idx": 39
     },
     {
@@ -489,6 +529,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 40
     },
     {
@@ -501,6 +542,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 41
     },
     {
@@ -513,6 +555,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 42
     },
     {
@@ -525,6 +568,7 @@
         "eff_low": 1.0,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\u2753",
         "idx": 43
     },
     {
@@ -537,6 +581,7 @@
         "eff_low": 1.0,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\u2753",
         "idx": 44
     },
     {
@@ -549,6 +594,7 @@
         "eff_low": 1.0,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\u2753",
         "idx": 45
     },
     {
@@ -561,6 +607,7 @@
         "eff_low": 1.0,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\u2753",
         "idx": 46
     },
     {
@@ -573,6 +620,7 @@
         "eff_low": 1.0,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\u2753",
         "idx": 47
     },
     {
@@ -585,6 +633,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 48
     },
     {
@@ -597,6 +646,7 @@
         "eff_low": 1.0,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\u2753",
         "idx": 49
     },
     {
@@ -609,6 +659,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 50
     },
     {
@@ -621,6 +672,7 @@
         "eff_low": 0.25,
         "other_costs": 0.0,
         "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25",
         "idx": 51
     }
 ]

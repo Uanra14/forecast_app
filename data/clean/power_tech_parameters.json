@@ -5,7 +5,8 @@
         "eff_high": 0.4,
         "eff_low": 0.25,
         "other_costs": 0.0,
-        "carbon_cost": "73.0"
+        "carbon_cost": "73.0",
+        "emoji": "\ud83d\udd25"
     },
     "Nuclear": {
         "fuel_cost": 1.2820127272727273,
@@ -13,7 +14,8 @@
         "eff_high": 0.42,
         "eff_low": 0.32,
         "other_costs": 0.0,
-        "carbon_cost": "73.0"
+        "carbon_cost": "73.0",
+        "emoji": "\u269b\ufe0f"
     },
     "Fossil Hard coal": {
         "fuel_cost": 13.51975248740941,
@@ -21,7 +23,8 @@
         "eff_high": 0.46,
         "eff_low": 0.35,
         "other_costs": 0.0,
-        "carbon_cost": "73.0"
+        "carbon_cost": "73.0",
+        "emoji": "\ud83e\udea8"
     },
     "Wind Onshore": {
         "fuel_cost": 0.0,
@@ -29,7 +32,8 @@
         "eff_high": 1.0,
         "eff_low": 1.0,
         "other_costs": 0.0,
-        "carbon_cost": "73.0"
+        "carbon_cost": "73.0",
+        "emoji": "\u2753"
     },
     "Wind Offshore": {
         "fuel_cost": 0.0,
@@ -37,7 +41,8 @@
         "eff_high": 1.0,
         "eff_low": 1.0,
         "other_costs": 0.0,
-        "carbon_cost": "73.0"
+        "carbon_cost": "73.0",
+        "emoji": "\u2753"
     },
     "Solar": {
         "fuel_cost": 0.0,
@@ -45,7 +50,8 @@
         "eff_high": 1.0,
         "eff_low": 1.0,
         "other_costs": 0.0,
-        "carbon_cost": "73.0"
+        "carbon_cost": "73.0",
+        "emoji": "\u2753"
     },
     "Biomass": {
         "fuel_cost": 0.0,
@@ -53,6 +59,7 @@
         "eff_high": 1.0,
         "eff_low": 1.0,
         "other_costs": 0.0,
-        "carbon_cost": "73.0"
+        "carbon_cost": "73.0",
+        "emoji": "\ud83c\udf31"
     }
 }
