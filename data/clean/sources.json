@@ -13,19 +13,6 @@
         "idx": 0
     },
     {
-        "tech_name": "Wind Offshore",
-        "name": "Hollandse Kust Zuid",
-        "capacity": "1420",
-        "fuel_cost": 0.0,
-        "co2_intensity": 0.0,
-        "eff_high": 1.0,
-        "eff_low": 1.0,
-        "other_costs": 0.0,
-        "carbon_cost": "73.0",
-        "emoji": "\u2753",
-        "idx": 1
-    },
-    {
         "tech_name": "Fossil Gas",
         "name": "Eemshaven",
         "capacity": "1410",
@@ -36,7 +23,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 2
+        "idx": 1
     },
     {
         "tech_name": "Fossil Gas",
@@ -49,7 +36,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 3
+        "idx": 2
     },
     {
         "tech_name": "Fossil Hard coal",
@@ -62,7 +49,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83e\udea8",
-        "idx": 4
+        "idx": 3
     },
     {
         "tech_name": "Fossil Gas",
@@ -75,7 +62,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 5
+        "idx": 4
     },
     {
         "tech_name": "Fossil Gas",
@@ -88,7 +75,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 6
+        "idx": 5
     },
     {
         "tech_name": "Fossil Gas",
@@ -101,20 +88,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 7
-    },
-    {
-        "tech_name": "Wind Offshore",
-        "name": "OWF Hollandse Kust Noord",
-        "capacity": "760",
-        "fuel_cost": 0.0,
-        "co2_intensity": 0.0,
-        "eff_high": 1.0,
-        "eff_low": 1.0,
-        "other_costs": 0.0,
-        "carbon_cost": "73.0",
-        "emoji": "\u2753",
-        "idx": 8
+        "idx": 6
     },
     {
         "tech_name": "Fossil Gas",
@@ -127,20 +101,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 9
-    },
-    {
-        "tech_name": "Wind Offshore",
-        "name": "Borssele Windfarm III and IV",
-        "capacity": "732",
-        "fuel_cost": 0.0,
-        "co2_intensity": 0.0,
-        "eff_high": 1.0,
-        "eff_low": 1.0,
-        "other_costs": 0.0,
-        "carbon_cost": "73.0",
-        "emoji": "\u2753",
-        "idx": 10
+        "idx": 7
     },
     {
         "tech_name": "Fossil Hard coal",
@@ -153,7 +114,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83e\udea8",
-        "idx": 11
+        "idx": 8
     },
     {
         "tech_name": "Fossil Gas",
@@ -166,7 +127,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 12
+        "idx": 9
     },
     {
         "tech_name": "Biomass",
@@ -179,20 +140,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83c\udf31",
-        "idx": 13
-    },
-    {
-        "tech_name": "Wind Offshore",
-        "name": "Windpark Gemini",
-        "capacity": "600",
-        "fuel_cost": 0.0,
-        "co2_intensity": 0.0,
-        "eff_high": 1.0,
-        "eff_low": 1.0,
-        "other_costs": 0.0,
-        "carbon_cost": "73.0",
-        "emoji": "\u2753",
-        "idx": 14
+        "idx": 10
     },
     {
         "tech_name": "Nuclear",
@@ -205,7 +153,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\u269b\ufe0f",
-        "idx": 15
+        "idx": 11
     },
     {
         "tech_name": "Fossil Gas",
@@ -218,7 +166,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 16
+        "idx": 12
     },
     {
         "tech_name": "Fossil Gas",
@@ -231,7 +179,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 17
+        "idx": 13
     },
     {
         "tech_name": "Fossil Gas",
@@ -244,7 +192,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 18
+        "idx": 14
     },
     {
         "tech_name": "Fossil Gas",
@@ -257,7 +205,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 19
+        "idx": 15
     },
     {
         "tech_name": "Fossil Gas",
@@ -270,7 +218,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 20
+        "idx": 16
     },
     {
         "tech_name": "Fossil Gas",
@@ -283,7 +231,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 21
+        "idx": 17
     },
     {
         "tech_name": "Fossil Gas",
@@ -296,46 +244,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 22
-    },
-    {
-        "tech_name": "Wind Onshore",
-        "name": "Windpark Fryslan",
-        "capacity": "383",
-        "fuel_cost": 0.0,
-        "co2_intensity": 0.0,
-        "eff_high": 1.0,
-        "eff_low": 1.0,
-        "other_costs": 0.0,
-        "carbon_cost": "73.0",
-        "emoji": "\u2753",
-        "idx": 23
-    },
-    {
-        "tech_name": "Wind Offshore",
-        "name": "Borssele 2",
-        "capacity": "376",
-        "fuel_cost": 0.0,
-        "co2_intensity": 0.0,
-        "eff_high": 1.0,
-        "eff_low": 1.0,
-        "other_costs": 0.0,
-        "carbon_cost": "73.0",
-        "emoji": "\u2753",
-        "idx": 24
-    },
-    {
-        "tech_name": "Wind Offshore",
-        "name": "Borssele 1",
-        "capacity": "376",
-        "fuel_cost": 0.0,
-        "co2_intensity": 0.0,
-        "eff_high": 1.0,
-        "eff_low": 1.0,
-        "other_costs": 0.0,
-        "carbon_cost": "73.0",
-        "emoji": "\u2753",
-        "idx": 25
+        "idx": 18
     },
     {
         "tech_name": "Fossil Gas",
@@ -348,7 +257,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 26
+        "idx": 19
     },
     {
         "tech_name": "Fossil Gas",
@@ -361,7 +270,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 27
+        "idx": 20
     },
     {
         "tech_name": "Fossil Gas",
@@ -374,7 +283,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 28
+        "idx": 21
     },
     {
         "tech_name": "Fossil Gas",
@@ -387,7 +296,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 29
+        "idx": 22
     },
     {
         "tech_name": "Fossil Gas",
@@ -400,7 +309,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 30
+        "idx": 23
     },
     {
         "tech_name": "Fossil Gas",
@@ -413,7 +322,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 31
+        "idx": 24
     },
     {
         "tech_name": "Fossil Gas",
@@ -426,7 +335,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 32
+        "idx": 25
     },
     {
         "tech_name": "Fossil Gas",
@@ -439,7 +348,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 33
+        "idx": 26
     },
     {
         "tech_name": "Fossil Gas",
@@ -452,46 +361,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 34
-    },
-    {
-        "tech_name": "Wind Onshore",
-        "name": "WP NOP Agrowind",
-        "capacity": "195",
-        "fuel_cost": 0.0,
-        "co2_intensity": 0.0,
-        "eff_high": 1.0,
-        "eff_low": 1.0,
-        "other_costs": 0.0,
-        "carbon_cost": "73.0",
-        "emoji": "\u2753",
-        "idx": 35
-    },
-    {
-        "tech_name": "Wind Onshore",
-        "name": "Windpark Wieringermeer",
-        "capacity": "184",
-        "fuel_cost": 0.0,
-        "co2_intensity": 0.0,
-        "eff_high": 1.0,
-        "eff_low": 1.0,
-        "other_costs": 0.0,
-        "carbon_cost": "73.0",
-        "emoji": "\u2753",
-        "idx": 36
-    },
-    {
-        "tech_name": "Wind Offshore",
-        "name": "Westermeerwind",
-        "capacity": "144",
-        "fuel_cost": 0.0,
-        "co2_intensity": 0.0,
-        "eff_high": 1.0,
-        "eff_low": 1.0,
-        "other_costs": 0.0,
-        "carbon_cost": "73.0",
-        "emoji": "\u2753",
-        "idx": 37
+        "idx": 27
     },
     {
         "tech_name": "Fossil Gas",
@@ -504,20 +374,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 38
-    },
-    {
-        "tech_name": "Wind Offshore",
-        "name": "Windfarm Luchterduinen",
-        "capacity": "129",
-        "fuel_cost": 0.0,
-        "co2_intensity": 0.0,
-        "eff_high": 1.0,
-        "eff_low": 1.0,
-        "other_costs": 0.0,
-        "carbon_cost": "73.0",
-        "emoji": "\u2753",
-        "idx": 39
+        "idx": 28
     },
     {
         "tech_name": "Fossil Gas",
@@ -530,7 +387,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 40
+        "idx": 29
     },
     {
         "tech_name": "Fossil Gas",
@@ -543,7 +400,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 41
+        "idx": 30
     },
     {
         "tech_name": "Fossil Gas",
@@ -556,72 +413,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 42
-    },
-    {
-        "tech_name": "Wind Onshore",
-        "name": "Prinses Alexia Windpark",
-        "capacity": "122",
-        "fuel_cost": 0.0,
-        "co2_intensity": 0.0,
-        "eff_high": 1.0,
-        "eff_low": 1.0,
-        "other_costs": 0.0,
-        "carbon_cost": "73.0",
-        "emoji": "\u2753",
-        "idx": 43
-    },
-    {
-        "tech_name": "Wind Onshore",
-        "name": "Westereems",
-        "capacity": "120",
-        "fuel_cost": 0.0,
-        "co2_intensity": 0.0,
-        "eff_high": 1.0,
-        "eff_low": 1.0,
-        "other_costs": 0.0,
-        "carbon_cost": "73.0",
-        "emoji": "\u2753",
-        "idx": 44
-    },
-    {
-        "tech_name": "Wind Offshore",
-        "name": "Windfarm Princess Amalia",
-        "capacity": "120",
-        "fuel_cost": 0.0,
-        "co2_intensity": 0.0,
-        "eff_high": 1.0,
-        "eff_low": 1.0,
-        "other_costs": 0.0,
-        "carbon_cost": "73.0",
-        "emoji": "\u2753",
-        "idx": 45
-    },
-    {
-        "tech_name": "Wind Onshore",
-        "name": "Wieringermeer Extension",
-        "capacity": "118",
-        "fuel_cost": 0.0,
-        "co2_intensity": 0.0,
-        "eff_high": 1.0,
-        "eff_low": 1.0,
-        "other_costs": 0.0,
-        "carbon_cost": "73.0",
-        "emoji": "\u2753",
-        "idx": 46
-    },
-    {
-        "tech_name": "Wind Onshore",
-        "name": "WP Maasvlakte 2",
-        "capacity": "117",
-        "fuel_cost": 0.0,
-        "co2_intensity": 0.0,
-        "eff_high": 1.0,
-        "eff_low": 1.0,
-        "other_costs": 0.0,
-        "carbon_cost": "73.0",
-        "emoji": "\u2753",
-        "idx": 47
+        "idx": 31
     },
     {
         "tech_name": "Fossil Gas",
@@ -634,20 +426,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 48
-    },
-    {
-        "tech_name": "Wind Offshore",
-        "name": "OWEZ",
-        "capacity": "108",
-        "fuel_cost": 0.0,
-        "co2_intensity": 0.0,
-        "eff_high": 1.0,
-        "eff_low": 1.0,
-        "other_costs": 0.0,
-        "carbon_cost": "73.0",
-        "emoji": "\u2753",
-        "idx": 49
+        "idx": 32
     },
     {
         "tech_name": "Fossil Gas",
@@ -660,7 +439,7 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 50
+        "idx": 33
     },
     {
         "tech_name": "Fossil Gas",
@@ -673,6 +452,6 @@
         "other_costs": 0.0,
         "carbon_cost": "73.0",
         "emoji": "\ud83d\udd25",
-        "idx": 51
+        "idx": 34
     }
 ]

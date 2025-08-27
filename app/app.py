@@ -22,7 +22,7 @@ st.set_page_config(
 )
 
 st.header("NL Energy Market Digital Twin")
-st.subheader(f"Modelling {SOURCE_NUM} power plants and wind parks")
+st.subheader(f"Modelling {SOURCE_NUM} power plants")
 
 for source in sources:
     st.markdown(f"{source['emoji']} **{source['name']}**")
