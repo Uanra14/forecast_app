@@ -1,28 +1,22 @@
-import json
-import streamlit as st
-import plotly.express as px
+from flask import Flask, render_template
+from results_classes import TimeSeriesPlot
+import pandas as pd
 
-# Load sources from a JSON file
-with open('../data/clean/sources.json', 'r') as f:
-    sources = json.load(f)
+app = Flask(__name__)
 
-# Load the results from a JSON file
-with open('../outputs/price_forecast.json', 'r') as f:
-    results = json.load(f)
+# Ensure templates are auto-reloaded
+app.config["TEMPLATES_AUTO_RELOAD"] = True
 
-### GLOBAL VARIABLES ###
-SOURCE_NUM = len(sources)
-COLUMN_NUM = 8
-ROW_NUM = (SOURCE_NUM + COLUMN_NUM - 1) // COLUMN_NUM
 
-# initialise a streamlit dashboard
-st.set_page_config(
-    page_title='DA Market Forecast',
-    page_icon=':high_voltage:',
-)
+@app.route('/')
+def index():
+    return render_template('index.html')
 
-st.header("NL Energy Market Digital Twin")
-st.subheader(f"Modelling {SOURCE_NUM} power plants")
 
-for source in sources:
-    st.markdown(f"{source['emoji']} **{source['name']}**")
+@app.route('/hist')
+def hist():
+    day_ahead_prices = pd.read_csv('static/price.csv', parse_dates=True)
+    ts_plot = TimeSeriesPlot(day_ahead_prices)
+
+    return render_template('hist.html', figure_json=ts_plot.figure_json)
+
