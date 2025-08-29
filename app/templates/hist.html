@@ -5,12 +5,35 @@
 {% endblock %}
 
 {% block main %}
-    <h1> This page shows the Past Prices of the Day Ahead Market </h1>
-    <div id="plot"></div>
-    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-    <script>
-        var plot_data = JSON.parse('{{ figure_json | safe }}');
-        Plotly.newPlot('plot', plot_data.data, plot_data.layout);
-    </script>
+
+<h1 class="text-center">This page shows the Past Prices of the Day Ahead Market</h1>
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 offset-md-2">  <!-- controls width and centers the content -->
+            <form method="POST">
+                <div class="row">
+                    <div class="col">
+                        <label for="start_date">Start Date:</label>
+                        <input class="form-control" type="date" id="start_date" name="start_date" value="{{ start_date }}">
+                    </div>
+                    <div class="col">
+                        <label for="end_date">End Date:</label>
+                        <input class="form-control" type="date" id="end_date" name="end_date" value="{{ end_date }}">
+                    </div>
+                    <div class="col d-flex align-items-end">
+                        <button type="submit" class="btn btn-primary w-100">Submit</button>
+                    </div>
+                </div>
+            </form>
+
+            <!-- Aligns with the form above -->
+            <div class="row mt-4">
+                <div class="col">
+                    {{ fig | safe }}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 {% endblock %}

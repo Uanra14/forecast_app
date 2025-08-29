@@ -22,7 +22,15 @@ class TimeSeriesPlot():
         self.timeseries = timeseries
         self.y_label = timeseries.columns[1]
         self.fig = go.Figure(data=[go.Scatter(x=timeseries['time_utc'], y=timeseries[self.y_label])])
-        self.figure_json = json.dumps(self.fig, cls=plotly.utils.PlotlyJSONEncoder)
+        self.html = self.fig.to_html()
+    
+        self.fig.update_traces(
+
+        )
+
+        self.fig.update_layout(
+            template='seaborn'
+        )
 
 if __name__ == "__main__":
     ts_data = TimeSeriesPlot(pd.read_csv('static/price.csv', parse_dates=True))
