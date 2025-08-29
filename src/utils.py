@@ -1,7 +1,9 @@
 """
 This module contains useful functions.
 """
+import requests
 from tqdm import tqdm
+
 
 class ProgressBar:
     def __init__(self, total, desc="Processing"):
@@ -12,6 +14,7 @@ class ProgressBar:
 
     def close(self):
         self.progress_bar.close()
+
 
 class Analyser:
     def __init__(self, data):

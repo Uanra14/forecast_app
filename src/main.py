@@ -1,6 +1,7 @@
 import csv
 import json
 from market import MarketSimulator
+from utils import get_renewables_data
 
 def main():
     with open('../data/clean/timeseries_data_2025.csv', mode='r', newline='') as f:
